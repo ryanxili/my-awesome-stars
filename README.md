@@ -44,7 +44,7 @@
 
 ## CSS 
 
-- [hehonghui/the-economist-ebooks](https://github.com/hehonghui/the-economist-ebooks) - 经济学人(含音频)、纽约客、自然、新科学人、卫报、科学美国人、连线、大西洋月刊、国家地理等英语杂志免费下载、订阅(kindle推送),支持epub、mobi、pdf格式, 每周更新. The Economist 、The New Yorker 、Nature、The Atlantic 、New Scientist、The Guardian、Scientific American、Wired mag
+- [hehonghui/the-economist-ebooks](https://github.com/hehonghui/the-economist-ebooks) - 经济学人(含音频)、纽约客、自然、新科学人、卫报、科学美国人、连线、大西洋月刊、国家地理等英语杂志免费下载,支持epub、mobi、pdf格式, 每周更新.
 
 ## Go 
 
@@ -56,6 +56,7 @@
 
 ## Java 
 
+- [frank-lam/fullstack-tutorial](https://github.com/frank-lam/fullstack-tutorial) - 🚀 fullstack tutorial 2022，后台技术栈/架构师之路/全栈开发社区，春招/秋招/校招/面试
 - [aritraroy/UltimateAndroidReference](https://github.com/aritraroy/UltimateAndroidReference) - :rocket: Ultimate Android Reference - Your Road to Become a Better Android Developer
 - [KunMinX/Jetpack-MVVM-Best-Practice](https://github.com/KunMinX/Jetpack-MVVM-Best-Practice) - 是 难得一见 的 Jetpack MVVM 最佳实践！在 以简驭繁 的代码中，对 视图控制器 乃至 标准化开发模式 形成正确、深入的理解！
 - [dyc87112/SpringBoot-Learning](https://github.com/dyc87112/SpringBoot-Learning) - 《Spring Boot基础教程》，2.x版本持续连载中！点击下方链接直达教程目录！
@@ -173,6 +174,7 @@
 
 ## Rust 
 
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative.
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 - [analysis-tools-dev/static-analysis](https://github.com/analysis-tools-dev/static-analysis) - ⚙️ A curated list of static analysis (SAST) tools for all programming languages, config files, build tools, and more.
 
