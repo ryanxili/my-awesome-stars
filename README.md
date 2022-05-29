@@ -224,6 +224,7 @@
 
 ## TypeScript 
 
+- [facebook/flipper](https://github.com/facebook/flipper) - A desktop debugging platform for mobile developers.
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative - turns any MySQL, Postgres, SQLite into a Spreadsheet with REST APIs.
 - [oldj/SwitchHosts](https://github.com/oldj/SwitchHosts) - Switch hosts quickly!
 - [gera2ld/markmap](https://github.com/gera2ld/markmap) - Visualize your Markdown as mindmaps with Markmap.
