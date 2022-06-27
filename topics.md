@@ -31,6 +31,7 @@
 - [font](#font)
 - [framework](#framework)
 - [frameworks](#frameworks)
+- [frontend](#frontend)
 - [game](#game)
 - [git](#git)
 - [github](#github)
@@ -102,7 +103,7 @@
 - [skydoves/Pokedex](https://github.com/skydoves/Pokedex) - 🗡️ Pokedex demonstrates modern Android development with Hilt, Material Motion, Coroutines, Flow, Jetpack (Room, ViewModel) based on MVVM architecture.
 - [aritraroy/UltimateAndroidReference](https://github.com/aritraroy/UltimateAndroidReference) - :rocket: Ultimate Android Reference - Your Road to Become a Better Android Developer
 - [KunMinX/Jetpack-MVVM-Best-Practice](https://github.com/KunMinX/Jetpack-MVVM-Best-Practice) - 是难得一见 Jetpack MVVM 最佳实践！在 "以简驭繁" 代码中，对 "视图控制器" 乃至 "标准化开发模式" 形成正确、深入理解！
-- [XXApple/AndroidLibs](https://github.com/XXApple/AndroidLibs) - :fire:正在成为史上最全分类 Android 开源大全~~~~（长期更新 Star 一下吧）
+- [ColorfulCat/AndroidLibs](https://github.com/ColorfulCat/AndroidLibs) - :fire:正在成为史上最全分类 Android 开源大全~~~~（长期更新 Star 一下吧）
 - [natario1/CameraView](https://github.com/natario1/CameraView) - 📸 A well documented, high-level Android interface that makes capturing pictures and videos easy, addressing all of the common issues and needs. Real-time filters, gestures, watermarks, frame processin
 - [zhihu/Matisse](https://github.com/zhihu/Matisse) - :fireworks: A well-designed local image and video selector for Android
 - [daimajia/AndroidViewAnimations](https://github.com/daimajia/AndroidViewAnimations) - Cute view animation collection.
@@ -132,6 +133,7 @@
 
 ## awesome 
 
+- [ascoders/weekly](https://github.com/ascoders/weekly) - 前端精读周刊。帮你理解最前沿、实用的技术。
 - [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [SwifterSwift/SwifterSwift](https://github.com/SwifterSwift/SwifterSwift) - A handy collection of more than 500 native Swift extensions to boost your productivity.
@@ -255,11 +257,15 @@
 
 ## framework 
 
-- [XXApple/AndroidLibs](https://github.com/XXApple/AndroidLibs) - :fire:正在成为史上最全分类 Android 开源大全~~~~（长期更新 Star 一下吧）
+- [ColorfulCat/AndroidLibs](https://github.com/ColorfulCat/AndroidLibs) - :fire:正在成为史上最全分类 Android 开源大全~~~~（长期更新 Star 一下吧）
 
 ## frameworks 
 
 - [ivanvorobei/awesome-ios](https://github.com/ivanvorobei/awesome-ios) - A collaborative list of awesome for iOS developers. Include quick preview.
+
+## frontend 
+
+- [ascoders/weekly](https://github.com/ascoders/weekly) - 前端精读周刊。帮你理解最前沿、实用的技术。
 
 ## game 
 
@@ -387,7 +393,7 @@
 
 - [Ramotion/folding-cell](https://github.com/Ramotion/folding-cell) - :octocat: 📃 FoldingCell is an expanding content cell with animation made by @Ramotion
 - [Yummypets/YPImagePicker](https://github.com/Yummypets/YPImagePicker) - 📸 Instagram-like image picker & filters for iOS
-- [XXApple/AndroidLibs](https://github.com/XXApple/AndroidLibs) - :fire:正在成为史上最全分类 Android 开源大全~~~~（长期更新 Star 一下吧）
+- [ColorfulCat/AndroidLibs](https://github.com/ColorfulCat/AndroidLibs) - :fire:正在成为史上最全分类 Android 开源大全~~~~（长期更新 Star 一下吧）
 
 ## linux 
 
