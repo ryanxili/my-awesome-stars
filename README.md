@@ -79,6 +79,7 @@
 
 ## JavaScript 
 
+- [ascoders/weekly](https://github.com/ascoders/weekly) - 前端精读周刊。帮你理解最前沿、实用的技术。
 - [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) - 24 Lessons, 12 Weeks, Get Started as a Web Developer
 - [digitalocean/nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) - ⚙️ NGINX config generator on steroids 💉
 - [yuzutech/kroki](https://github.com/yuzutech/kroki) - Creates diagrams from textual descriptions!
@@ -148,7 +149,7 @@
 - [KevinHM/ios-good-practices-the-lastest-version](https://github.com/KevinHM/ios-good-practices-the-lastest-version) - iOS 开发最佳实践：OC 与 Swift 最佳实践
 - [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps
 - [CodingDocs/awesome-java](https://github.com/CodingDocs/awesome-java) - Collection of awesome Java project on Github(非常棒的 Java 开源项目集合).
-- [XXApple/AndroidLibs](https://github.com/XXApple/AndroidLibs) - :fire:正在成为史上最全分类 Android 开源大全~~~~（长期更新 Star 一下吧）
+- [ColorfulCat/AndroidLibs](https://github.com/ColorfulCat/AndroidLibs) - :fire:正在成为史上最全分类 Android 开源大全~~~~（长期更新 Star 一下吧）
 - [JStumpp/awesome-android](https://github.com/JStumpp/awesome-android) - A curated list of awesome Android packages and resources.
 - [521xueweihan/git-tips](https://github.com/521xueweihan/git-tips) - :trollface:Git的奇技淫巧
 - [wasabeef/awesome-android-ui](https://github.com/wasabeef/awesome-android-ui) - A curated list of awesome Android UI/UX libraries
