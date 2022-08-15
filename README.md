@@ -49,6 +49,7 @@
 
 ## Go 
 
+- [Dreamacro/clash](https://github.com/Dreamacro/clash) - A rule-based tunnel in Go.
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
 
 ## HTML 
@@ -239,6 +240,7 @@
 
 ## TypeScript 
 
+- [ospfranco/sol](https://github.com/ospfranco/sol) - MacOS launcher & command palette
 - [1milligram/csslayout](https://github.com/1milligram/csslayout) - A collection of popular layouts and patterns made with CSS. Now it has 100+ patterns and continues growing!
 - [yang991178/fluent-reader](https://github.com/yang991178/fluent-reader) - Modern desktop RSS reader built with Electron, React, and Fluent UI
 - [facebook/flipper](https://github.com/facebook/flipper) - A desktop debugging platform for mobile developers.
