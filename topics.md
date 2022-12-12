@@ -8,7 +8,6 @@
 - [algorithm](#algorithm)
 - [android](#android)
 - [angular](#angular)
-- [ansible](#ansible)
 - [api](#api)
 - [automation](#automation)
 - [awesome](#awesome)
@@ -128,10 +127,6 @@
 ## angular 
 
 - [justjavac/free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) - :books: 免费的计算机编程类中文书籍，欢迎投稿
-
-## ansible 
-
-- [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting(on premises & private web servers) and managing software applications by yourself or your organization.
 
 ## api 
 
@@ -271,7 +266,7 @@
 - [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
 - [yang991178/fluent-reader](https://github.com/yang991178/fluent-reader) - Modern desktop RSS reader built with Electron, React, and Fluent UI
 - [oldj/SwitchHosts](https://github.com/oldj/SwitchHosts) - Switch hosts quickly!
-- [electerm/electerm](https://github.com/electerm/electerm) - 📻Terminal/ssh/sftp client(linux, mac, win)
+- [electerm/electerm](https://github.com/electerm/electerm) - 📻Terminal/ssh/telnet/serialport/sftp client(linux, mac, win)
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
@@ -318,9 +313,11 @@
 ## github 
 
 - [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
+- [521xueweihan/GitHub520](https://github.com/521xueweihan/GitHub520) - :kissing_heart: 让你“爱”上 GitHub，解决访问时图裂、加载慢的问题。（无需安装）
 - [arslanbilal/git-cheat-sheet](https://github.com/arslanbilal/git-cheat-sheet) - :octocat: git and git flow cheat sheet
 - [khoren93/SwiftHub](https://github.com/khoren93/SwiftHub) - GitHub iOS client in RxSwift and MVVM-C clean architecture
 - [gee1k/uPic](https://github.com/gee1k/uPic) - 📤uPic is a native, powerful, beautiful and simple picture and file upload tool for macOS.
+- [521xueweihan/git-tips](https://github.com/521xueweihan/git-tips) - :trollface:Git的奇技淫巧
 - [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.
 
 ## golang 
@@ -341,7 +338,6 @@
 
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System
 - [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy) - 🦄  A curated list of privacy & security-focused software and services
-- [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) - 24 Lessons, 12 Weeks, Get Started as a Web Developer
 - [digitalocean/nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) - ⚙️ NGINX config generator on steroids 💉
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
@@ -361,7 +357,7 @@
 
 ## homebridge 
 
-- [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting(on premises & private web servers) and managing software applications by yourself or your organization.
+- [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization.
 
 ## html 
 
@@ -543,7 +539,7 @@
 ## open-source 
 
 - [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
-- [electerm/electerm](https://github.com/electerm/electerm) - 📻Terminal/ssh/sftp client(linux, mac, win)
+- [electerm/electerm](https://github.com/electerm/electerm) - 📻Terminal/ssh/telnet/serialport/sftp client(linux, mac, win)
 - [SwifterSwift/SwifterSwift](https://github.com/SwifterSwift/SwifterSwift) - A handy collection of more than 500 native Swift extensions to boost your productivity.
 - [khoren93/SwiftHub](https://github.com/khoren93/SwiftHub) - GitHub iOS client in RxSwift and MVVM-C clean architecture
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
@@ -570,7 +566,6 @@
 - [danielgindi/Charts](https://github.com/danielgindi/Charts) - Beautiful charts for iOS/tvOS/OSX! The Apple side of the crossplatform MPAndroidChart.
 - [Dimillian/MovieSwiftUI](https://github.com/Dimillian/MovieSwiftUI) - SwiftUI & Combine app using MovieDB API. With a custom Flux (Redux) implementation.
 - [madawei2699/notion-sites](https://github.com/madawei2699/notion-sites) - 发掘Notion好站
-- [521xueweihan/GitHub520](https://github.com/521xueweihan/GitHub520) - :kissing_heart: 让你“爱”上 GitHub，解决访问时图裂、加载慢的问题。（无需安装）
 - [markmap/markmap](https://github.com/markmap/markmap) - Visualize your Markdown as mindmaps with Markmap.
 - [julycoding/The-Art-Of-Programming-By-July](https://github.com/julycoding/The-Art-Of-Programming-By-July) - 本项目曾冲到全球第一，干货集锦见本页面最底部，另完整精致的纸质版《编程之法：面试和算法心得》已在京东/当当上销售
 - [Wechat-ggGitHub/Awesome-GitHub-Repo](https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo) - 收集整理 GitHub 上高质量、有趣的开源项目。
@@ -765,7 +760,7 @@
 
 ## terminal 
 
-- [electerm/electerm](https://github.com/electerm/electerm) - 📻Terminal/ssh/sftp client(linux, mac, win)
+- [electerm/electerm](https://github.com/electerm/electerm) - 📻Terminal/ssh/telnet/serialport/sftp client(linux, mac, win)
 - [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a blazingly-fast modern Rust based GPU-accelerated terminal built to make you and your team more productive.
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
 
