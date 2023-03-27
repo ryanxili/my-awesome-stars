@@ -143,7 +143,6 @@
 
 ## Makefile 
 
-- [immersive-translate/immersive-translate](https://github.com/immersive-translate/immersive-translate) - Immersive Dual Web Page Translation Extension - 沉浸式双语网页翻译扩展
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 
 ## Markdown 
@@ -158,7 +157,7 @@
 
 ## Others 
 
-- [xx025/carrot](https://github.com/xx025/carrot) - 这儿为你准备了众多免费好用的ChatGPT镜像站点
+- [xx025/carrot](https://github.com/xx025/carrot) - 这儿为你准备了众多免费好用的ChatGPT镜像站点，当前100+站点
 - [wsdjeg/Learn-Vim_zh_cn](https://github.com/wsdjeg/Learn-Vim_zh_cn) - 
 - [iggredible/Learn-Vim](https://github.com/iggredible/Learn-Vim) - Learning Vim and Vimscript doesn't have to be hard. This is the guide that you're looking for 📖
 - [cobaltdisco/Google-Chinese-Results-Blocklist](https://github.com/cobaltdisco/Google-Chinese-Results-Blocklist) - 我终于能用谷歌搜中文了……
@@ -306,7 +305,8 @@
 
 ## TypeScript 
 
-- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted memo hub with knowledge management and social networking.
+- [usememos/memos](https://github.com/usememos/memos) - A lightweight, self-hosted memo hub. Open Source and Free forever.
+- [immersive-translate/immersive-translate](https://github.com/immersive-translate/immersive-translate) - Immersive Dual Web Page Translation Extension - 沉浸式双语网页翻译扩展
 - [ospfranco/sol](https://github.com/ospfranco/sol) - MacOS launcher & command palette
 - [yang991178/fluent-reader](https://github.com/yang991178/fluent-reader) - Modern desktop RSS reader built with Electron, React, and Fluent UI
 - [facebook/flipper](https://github.com/facebook/flipper) - A desktop debugging platform for mobile developers.
