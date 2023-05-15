@@ -107,6 +107,7 @@
 - [terminal](#terminal)
 - [twitter](#twitter)
 - [typescript](#typescript)
+- [ubuntu](#ubuntu)
 - [vim](#vim)
 - [visual-studio-code](#visual-studio-code)
 - [vue](#vue)
@@ -119,6 +120,7 @@
 
 ## ai 
 
+- [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox) - Your Ultimate Copilot on the Desktop. Chatbox is a desktop app for GPT-4 / GPT-3.5 (OpenAI API) that supports Windows, Mac & Linux.
 - [xx025/carrot](https://github.com/xx025/carrot) - Free ChatGPT Site List 这儿为你准备了众多免费好用的ChatGPT镜像站点，当前100+站点
 
 ## algorithm 
@@ -198,7 +200,7 @@
 - [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy) - 🦄  A curated list of privacy & security-focused software and services
 - [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
-- [jVirus/ios-learning-materials](https://github.com/jVirus/ios-learning-materials) - 📚Curated list of articles, web-resources, tutorials and code repositories that may help you dig a little bit deeper into iOS [and Apple Platforms].
+- [jVirus/ios-learning-materials](https://github.com/jVirus/ios-learning-materials) - 📚 Curated list of articles, tutorials and repos that may help you dig a little bit deeper into iOS [and Apple Platforms].
 - [ivanvorobei/awesome-ios](https://github.com/ivanvorobei/awesome-ios) - A collaborative list of awesome for iOS developers. Include quick preview.
 - [JoseDeFreitas/awesome-youtubers](https://github.com/JoseDeFreitas/awesome-youtubers) - An awesome list of awesome YouTubers that teach about technology. Tutorials about web development, computer science, machine learning, game development, cybersecurity, and more.
 - [matteocrippa/awesome-swift](https://github.com/matteocrippa/awesome-swift) - A collaborative list of awesome Swift libraries and resources. Feel free to contribute!
@@ -469,8 +471,8 @@
 - [SwifterSwift/SwifterSwift](https://github.com/SwifterSwift/SwifterSwift) - A handy collection of more than 500 native Swift extensions to boost your productivity.
 - [yagiz/Bagel](https://github.com/yagiz/Bagel) - a little native network debugging tool for iOS
 - [Yummypets/YPImagePicker](https://github.com/Yummypets/YPImagePicker) - 📸 Instagram-like image picker & filters for iOS
-- [jVirus/ios-learning-materials](https://github.com/jVirus/ios-learning-materials) - 📚Curated list of articles, web-resources, tutorials and code repositories that may help you dig a little bit deeper into iOS [and Apple Platforms].
-- [kean/Pulse](https://github.com/kean/Pulse) - Network logger for Apple platforms
+- [jVirus/ios-learning-materials](https://github.com/jVirus/ios-learning-materials) - 📚 Curated list of articles, tutorials and repos that may help you dig a little bit deeper into iOS [and Apple Platforms].
+- [kean/Pulse](https://github.com/kean/Pulse) - Network Logger for Apple platforms
 - [NextLevel/NextLevel](https://github.com/NextLevel/NextLevel) - ⬆️ Media Capture in Swift
 - [ivanvorobei/SPAlert](https://github.com/ivanvorobei/SPAlert) - Native alert from Apple Music & Feedback. Contains Done, Heart & Message and other presets. Support SwiftUI.
 - [ivanvorobei/awesome-ios](https://github.com/ivanvorobei/awesome-ios) - A collaborative list of awesome for iOS developers. Include quick preview.
@@ -532,7 +534,7 @@
 
 - [iggredible/Learn-Vim](https://github.com/iggredible/Learn-Vim) - Learning Vim and Vimscript doesn't have to be hard. This is the guide that you're looking for 📖
 - [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) - 24 Lessons, 12 Weeks, Get Started as a Web Developer
-- [jVirus/ios-learning-materials](https://github.com/jVirus/ios-learning-materials) - 📚Curated list of articles, web-resources, tutorials and code repositories that may help you dig a little bit deeper into iOS [and Apple Platforms].
+- [jVirus/ios-learning-materials](https://github.com/jVirus/ios-learning-materials) - 📚 Curated list of articles, tutorials and repos that may help you dig a little bit deeper into iOS [and Apple Platforms].
 
 ## library 
 
@@ -542,6 +544,7 @@
 
 ## linux 
 
+- [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox) - Your Ultimate Copilot on the Desktop. Chatbox is a desktop app for GPT-4 / GPT-3.5 (OpenAI API) that supports Windows, Mac & Linux.
 - [iggredible/Learn-Vim](https://github.com/iggredible/Learn-Vim) - Learning Vim and Vimscript doesn't have to be hard. This is the guide that you're looking for 📖
 - [xfangfang/Macast](https://github.com/xfangfang/Macast) - Macast is a cross-platform application which using mpv as DLNA Media Renderer.
 - [yang991178/fluent-reader](https://github.com/yang991178/fluent-reader) - Modern desktop RSS reader built with Electron, React, and Fluent UI
@@ -567,6 +570,7 @@
 
 - [dwarvesf/hidden](https://github.com/dwarvesf/hidden) - An ultra-light MacOS utility that helps hide menu bar icons
 - [tisfeng/Easydict](https://github.com/tisfeng/Easydict) - 一个简洁优雅的翻译词典 macOS App。开箱即用，支持离线 OCR 识别，支持有道词典，🍎苹果系统翻译，DeepL，谷歌，百度和火山翻译。A concise and elegant Dictionary and Translator macOS App for looking up words and translating text.
+- [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox) - Your Ultimate Copilot on the Desktop. Chatbox is a desktop app for GPT-4 / GPT-3.5 (OpenAI API) that supports Windows, Mac & Linux.
 - [glushchenko/fsnotes](https://github.com/glushchenko/fsnotes) - Notes manager for macOS/iOS
 - [MarkEdit-app/MarkEdit](https://github.com/MarkEdit-app/MarkEdit) - Just like TextEdit on Mac but dedicated to Markdown.
 - [xfangfang/Macast](https://github.com/xfangfang/Macast) - Macast is a cross-platform application which using mpv as DLNA Media Renderer.
@@ -589,7 +593,7 @@
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 - [SwifterSwift/SwifterSwift](https://github.com/SwifterSwift/SwifterSwift) - A handy collection of more than 500 native Swift extensions to boost your productivity.
 - [gee1k/uPic](https://github.com/gee1k/uPic) - 📤uPic is a native, powerful, beautiful and simple picture and file upload tool for macOS.
-- [kean/Pulse](https://github.com/kean/Pulse) - Network logger for Apple platforms
+- [kean/Pulse](https://github.com/kean/Pulse) - Network Logger for Apple platforms
 - [nikitavoloboev/my-mac](https://github.com/nikitavoloboev/my-mac) - List of applications and tools that make my macOS experience even more amazing
 - [iCHAIT/awesome-macOS](https://github.com/iCHAIT/awesome-macOS) -  A curated list of awesome applications, softwares, tools and shiny things for macOS.
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
@@ -744,7 +748,6 @@
 
 ## p2p 
 
-- [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, WireGuard, Automation, Ho
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - Virtual / remote desktop infrastructure for everyone! Open source TeamViewer / Citrix alternative.
 
 ## php 
@@ -777,6 +780,7 @@
 
 - [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - A beautiful personal/home server OS for self-hosting with an app store. Install on a Raspberry Pi 4, any Ubuntu/Debian system, or a VPS.
 - [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧☁️ Modern Music Server and Streamer compatible with Subsonic/Airsonic
+- [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, WireGuard, Automation, Ho
 
 ## react 
 
@@ -879,8 +883,8 @@
 - [gee1k/uPic](https://github.com/gee1k/uPic) - 📤uPic is a native, powerful, beautiful and simple picture and file upload tool for macOS.
 - [yagiz/Bagel](https://github.com/yagiz/Bagel) - a little native network debugging tool for iOS
 - [Yummypets/YPImagePicker](https://github.com/Yummypets/YPImagePicker) - 📸 Instagram-like image picker & filters for iOS
-- [jVirus/ios-learning-materials](https://github.com/jVirus/ios-learning-materials) - 📚Curated list of articles, web-resources, tutorials and code repositories that may help you dig a little bit deeper into iOS [and Apple Platforms].
-- [kean/Pulse](https://github.com/kean/Pulse) - Network logger for Apple platforms
+- [jVirus/ios-learning-materials](https://github.com/jVirus/ios-learning-materials) - 📚 Curated list of articles, tutorials and repos that may help you dig a little bit deeper into iOS [and Apple Platforms].
+- [kean/Pulse](https://github.com/kean/Pulse) - Network Logger for Apple platforms
 - [SnapKit/SnapKit](https://github.com/SnapKit/SnapKit) - A Swift Autolayout DSL for iOS & OS X
 - [NextLevel/NextLevel](https://github.com/NextLevel/NextLevel) - ⬆️ Media Capture in Swift
 - [kean/Nuke](https://github.com/kean/Nuke) - Image loading system
@@ -911,7 +915,7 @@
 - [jacklandrin/OnlySwitch](https://github.com/jacklandrin/OnlySwitch) - ⚙️ All-in-One menu bar app, hide 💻MacBook Pro's notch, dark mode, AirPods, Shortcuts
 - [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
 - [Jinxiansen/SwiftUI](https://github.com/Jinxiansen/SwiftUI) - `SwiftUI` Framework  Learning and Usage Guide. 🚀
-- [jVirus/ios-learning-materials](https://github.com/jVirus/ios-learning-materials) - 📚Curated list of articles, web-resources, tutorials and code repositories that may help you dig a little bit deeper into iOS [and Apple Platforms].
+- [jVirus/ios-learning-materials](https://github.com/jVirus/ios-learning-materials) - 📚 Curated list of articles, tutorials and repos that may help you dig a little bit deeper into iOS [and Apple Platforms].
 - [ivanvorobei/SPAlert](https://github.com/ivanvorobei/SPAlert) - Native alert from Apple Music & Feedback. Contains Done, Heart & Message and other presets. Support SwiftUI.
 - [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps
 
@@ -940,6 +944,10 @@
 - [yang991178/fluent-reader](https://github.com/yang991178/fluent-reader) - Modern desktop RSS reader built with Electron, React, and Fluent UI
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
+
+## ubuntu 
+
+- [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox) - Your Ultimate Copilot on the Desktop. Chatbox is a desktop app for GPT-4 / GPT-3.5 (OpenAI API) that supports Windows, Mac & Linux.
 
 ## vim 
 
@@ -971,6 +979,7 @@
 
 ## windows 
 
+- [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox) - Your Ultimate Copilot on the Desktop. Chatbox is a desktop app for GPT-4 / GPT-3.5 (OpenAI API) that supports Windows, Mac & Linux.
 - [xfangfang/Macast](https://github.com/xfangfang/Macast) - Macast is a cross-platform application which using mpv as DLNA Media Renderer.
 - [Tencent/MMKV](https://github.com/Tencent/MMKV) - An efficient, small mobile key-value storage framework developed by WeChat. Works on Android, iOS, macOS, Windows, and POSIX.
 - [yang991178/fluent-reader](https://github.com/yang991178/fluent-reader) - Modern desktop RSS reader built with Electron, React, and Fluent UI
@@ -986,7 +995,7 @@
 ## xcode 
 
 - [SwifterSwift/SwifterSwift](https://github.com/SwifterSwift/SwifterSwift) - A handy collection of more than 500 native Swift extensions to boost your productivity.
-- [jVirus/ios-learning-materials](https://github.com/jVirus/ios-learning-materials) - 📚Curated list of articles, web-resources, tutorials and code repositories that may help you dig a little bit deeper into iOS [and Apple Platforms].
+- [jVirus/ios-learning-materials](https://github.com/jVirus/ios-learning-materials) - 📚 Curated list of articles, tutorials and repos that may help you dig a little bit deeper into iOS [and Apple Platforms].
 - [SnapKit/SnapKit](https://github.com/SnapKit/SnapKit) - A Swift Autolayout DSL for iOS & OS X
 - [ivanvorobei/awesome-ios](https://github.com/ivanvorobei/awesome-ios) - A collaborative list of awesome for iOS developers. Include quick preview.
 - [Tim9Liu9/TimLiu-iOS](https://github.com/Tim9Liu9/TimLiu-iOS) - iOS开发常用三方库、插件、知名博客等等
