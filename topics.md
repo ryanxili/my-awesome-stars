@@ -148,7 +148,7 @@
 - [CarGuo/GSYVideoPlayer](https://github.com/CarGuo/GSYVideoPlayer) - 视频播放器（IJKplayer、ExoPlayer、MediaPlayer），HTTPS，支持弹幕，外挂字幕，支持滤镜、水印、gif截图，片头广告、中间广告，多个同时播放，支持基本的拖动，声音、亮度调节，支持边播边缓存，支持视频自带rotation的旋转（90,270之类），重力旋转与手动旋转的同步支持，支持列表播放 ，列表全屏动画，视频加载速度，列表小窗口支持拖动，动画效果，调整比例，多分辨率切
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the secure note taking and to-do app with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
 - [google/mediapipe](https://github.com/google/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
-- [Livinglist/Hacki](https://github.com/Livinglist/Hacki) - A Hacker News client.
+- [Livinglist/Hacki](https://github.com/Livinglist/Hacki) - A feature-rich Hacker News client.
 - [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.
 - [Automattic/pocket-casts-android](https://github.com/Automattic/pocket-casts-android) - Pocket Casts Android 🎧
 - [Tencent/MMKV](https://github.com/Tencent/MMKV) - An efficient, small mobile key-value storage framework developed by WeChat. Works on Android, iOS, macOS, Windows, and POSIX.
@@ -240,7 +240,7 @@
 
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
-- [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a blazingly-fast modern Rust based GPU-accelerated terminal built to make you and your team more productive.
+- [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a modern, Rust-based terminal with AI built in so you and your team can build great software, faster.
 
 ## bitcoin 
 
@@ -275,6 +275,7 @@
 
 ## cli 
 
+- [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
@@ -316,7 +317,7 @@
 
 ## dart 
 
-- [Livinglist/Hacki](https://github.com/Livinglist/Hacki) - A Hacker News client.
+- [Livinglist/Hacki](https://github.com/Livinglist/Hacki) - A feature-rich Hacker News client.
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop, and alternative to TeamViewer.
 
 ## data-structures 
@@ -402,7 +403,7 @@
 ## flutter 
 
 - [Sangwan5688/BlackHole](https://github.com/Sangwan5688/BlackHole) - A Music Player App made with Flutter
-- [Livinglist/Hacki](https://github.com/Livinglist/Hacki) - A Hacker News client.
+- [Livinglist/Hacki](https://github.com/Livinglist/Hacki) - A feature-rich Hacker News client.
 - [TheAlphamerc/flutter_twitter_clone](https://github.com/TheAlphamerc/flutter_twitter_clone) - Fully functional Twitter clone built in  flutter framework using Firebase realtime database and storage
 - [immich-app/immich](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone.
 - [Tencent/MMKV](https://github.com/Tencent/MMKV) - An efficient, small mobile key-value storage framework developed by WeChat. Works on Android, iOS, macOS, Windows, and POSIX.
@@ -484,6 +485,7 @@
 
 ## hacktoberfest 
 
+- [Juanpe/SkeletonView](https://github.com/Juanpe/SkeletonView) - ☠️ An elegant way to show users that something is happening and also prepare them to which contents they are awaiting
 - [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) - 🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven.
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim config providing solid defaults and a beautiful UI, enhancing your neovim experience.
 - [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather
@@ -513,7 +515,7 @@
 
 ## home-assistant 
 
-- [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, WireGuard, Automation, Ho
+- [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati
 
 ## homebrew 
 
@@ -532,6 +534,7 @@
 
 ## ios 
 
+- [Juanpe/SkeletonView](https://github.com/Juanpe/SkeletonView) - ☠️ An elegant way to show users that something is happening and also prepare them to which contents they are awaiting
 - [VirgilClyne/iRingo](https://github.com/VirgilClyne/iRingo) - 解锁完整的 Apple功能和集成服务
 - [whitesmith/WSTagsField](https://github.com/whitesmith/WSTagsField) - An iOS text field that represents tags, hashtags, tokens in general.
 - [Ramotion/animated-tab-bar](https://github.com/Ramotion/animated-tab-bar) - :octocat: RAMAnimatedTabBarController is a Swift UI module library for adding animation to iOS tabbar items and icons. iOS library made by @Ramotion
@@ -541,7 +544,7 @@
 - [paololeonardi/WaterfallGrid](https://github.com/paololeonardi/WaterfallGrid) - A waterfall grid layout view for SwiftUI.
 - [onevcat/Kingfisher](https://github.com/onevcat/Kingfisher) - A lightweight, pure-Swift library for downloading and caching images from the web.
 - [onmyway133/awesome-ios-animation](https://github.com/onmyway133/awesome-ios-animation) - :umbrella: A collection of iOS animation repos
-- [Livinglist/Hacki](https://github.com/Livinglist/Hacki) - A Hacker News client.
+- [Livinglist/Hacki](https://github.com/Livinglist/Hacki) - A feature-rich Hacker News client.
 - [glushchenko/fsnotes](https://github.com/glushchenko/fsnotes) - Notes manager for macOS/iOS
 - [Dimillian/IceCubesApp](https://github.com/Dimillian/IceCubesApp) - A SwiftUI Mastodon client
 - [Tencent/MMKV](https://github.com/Tencent/MMKV) - An efficient, small mobile key-value storage framework developed by WeChat. Works on Android, iOS, macOS, Windows, and POSIX.
@@ -642,6 +645,7 @@
 
 ## linux 
 
+- [hackclub/putting-the-you-in-cpu](https://github.com/hackclub/putting-the-you-in-cpu) - A technical explainer by @kognise of how your computer runs programs, from start to finish.
 - [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox) - Chatbox is a desktop app for multiple cutting-edge LLM models that available on Windows, Mac, Linux
 - [iggredible/Learn-Vim](https://github.com/iggredible/Learn-Vim) - Learning Vim and Vimscript doesn't have to be hard. This is the guide that you're looking for 📖
 - [xfangfang/Macast](https://github.com/xfangfang/Macast) - Macast is a cross-platform application which using mpv as DLNA Media Renderer.
@@ -650,7 +654,7 @@
 - [MintCN/linux-insides-zh](https://github.com/MintCN/linux-insides-zh) - Linux 内核揭秘
 - [tangtangcoding/C-C-](https://github.com/tangtangcoding/C-C-) - 程序员相关电子书资料免费分享，欢迎关注个人微信公众号：程序员编程指南
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
-- [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a blazingly-fast modern Rust based GPU-accelerated terminal built to make you and your team more productive.
+- [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a modern, Rust-based terminal with AI built in so you and your team can build great software, faster.
 - [0voice/learning_mind_map](https://github.com/0voice/learning_mind_map) - 2021年【思维导图】盒子，C/C++，Golang，Linux，云原生，数据库，DPDK，音视频开发，TCP/IP，数据结构，计算机原理等
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
@@ -706,7 +710,7 @@
 - [exelban/stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar
 - [jacklandrin/OnlySwitch](https://github.com/jacklandrin/OnlySwitch) - ⚙️ All-in-One menu bar app, hide 💻MacBook Pro's notch, dark mode, AirPods, Shortcuts
 - [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
-- [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a blazingly-fast modern Rust based GPU-accelerated terminal built to make you and your team more productive.
+- [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a modern, Rust-based terminal with AI built in so you and your team can build great software, faster.
 - [ripperhe/Bob](https://github.com/ripperhe/Bob) - Bob 是一款 macOS 平台的翻译和 OCR 软件。
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 - [SwifterSwift/SwifterSwift](https://github.com/SwifterSwift/SwifterSwift) - A handy collection of more than 500 native Swift extensions to boost your productivity.
@@ -813,6 +817,8 @@
 
 ## others 
 
+- [didi/LogicFlow](https://github.com/didi/LogicFlow) - A flow chart editing framework focusing on business customization. 专注于业务自定义的流程图编辑框架，支持实现脑图、ER图、UML、工作流等各种图编辑场景。
+- [AlDanial/cloc](https://github.com/AlDanial/cloc) - cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.
 - [googlesamples/mediapipe](https://github.com/googlesamples/mediapipe) - 
 - [gaotianliuyun/gao](https://github.com/gaotianliuyun/gao) - FongMi影视、tvbox配置文件，如果喜欢，请Fork自用。使用前请仔细阅读仓库说明，一旦使用将被视为你已了解。
 - [liu673cn/box](https://github.com/liu673cn/box) - TVbox开源版（空壳-自行配置）
@@ -856,7 +862,7 @@
 - [Automattic/pocket-casts-ios](https://github.com/Automattic/pocket-casts-ios) - Pocket Casts iOS app 🎧
 - [fmtlib/fmt](https://github.com/fmtlib/fmt) - A modern formatting library
 - [isocpp/CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines) - The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++
-- [ldqk/Masuit.Tools](https://github.com/ldqk/Masuit.Tools) - 新手友好的C#万能工具库，码数吐司库，包含一些常用的操作类，大都是静态类，加密解密，反射操作，权重随机筛选算法，分布式短id，表达式树，linq扩展，文件压缩，多线程下载和FTP客户端，硬件信息，字符串扩展方法，日期时间扩展操作，中国农历，大文件拷贝，图像裁剪，验证码，断点续传，集合扩展、Excel导出等常用封装。诸多功能集一身，代码量不到2MB！
+- [ldqk/Masuit.Tools](https://github.com/ldqk/Masuit.Tools) - 新手友好的C#万能工具库，码数吐司库，包含一些常用的操作类，大都是静态类，加密解密，反射操作，权重随机筛选算法，分布式短id，表达式树，linq扩展，文件压缩，多线程下载，硬件信息，字符串扩展方法，日期时间扩展操作，中国农历，大文件拷贝，图像裁剪，验证码，断点续传，集合扩展、Excel导出等常用封装。诸多功能集一身，代码量不到2MB！
 - [dibingfa/flash-linux0.11-talk](https://github.com/dibingfa/flash-linux0.11-talk) - 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码
 - [facebook/flipper](https://github.com/facebook/flipper) - A desktop debugging platform for mobile developers.
 - [AlenZhang-Dev/News-Record](https://github.com/AlenZhang-Dev/News-Record) - 目前主要维护经济学人【The Economist】、纽约客【The NewYorker】和时代杂志【Time】
@@ -941,7 +947,7 @@
 
 - [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - A beautiful home server OS for self-hosting with an app store. Buy a pre-built Umbrel Home with umbrelOS, or install on a Raspberry Pi 4, any Ubuntu/Debian system, or a VPS.
 - [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧☁️ Modern Music Server and Streamer compatible with Subsonic/Airsonic
-- [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, WireGuard, Automation, Ho
+- [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati
 
 ## react 
 
@@ -988,6 +994,7 @@
 
 ## rust 
 
+- [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
 - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, and grep output
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
@@ -997,7 +1004,7 @@
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop, and alternative to TeamViewer.
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
-- [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a blazingly-fast modern Rust based GPU-accelerated terminal built to make you and your team more productive.
+- [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a modern, Rust-based terminal with AI built in so you and your team can build great software, faster.
 
 ## security 
 
@@ -1017,7 +1024,7 @@
 - [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧☁️ Modern Music Server and Streamer compatible with Subsonic/Airsonic
 - [immich-app/immich](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone.
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
-- [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, WireGuard, Automation, Ho
+- [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati
 - [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy) - 🦄  A curated list of privacy & security-focused software and services
 
 ## server 
@@ -1027,7 +1034,7 @@
 ## shell 
 
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
-- [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a blazingly-fast modern Rust based GPU-accelerated terminal built to make you and your team more productive.
+- [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a modern, Rust-based terminal with AI built in so you and your team can build great software, faster.
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
 
 ## software 
@@ -1056,6 +1063,7 @@
 
 ## swift 
 
+- [Juanpe/SkeletonView](https://github.com/Juanpe/SkeletonView) - ☠️ An elegant way to show users that something is happening and also prepare them to which contents they are awaiting
 - [whitesmith/WSTagsField](https://github.com/whitesmith/WSTagsField) - An iOS text field that represents tags, hashtags, tokens in general.
 - [milanvarady/Applite](https://github.com/milanvarady/Applite) - User-friendly GUI macOS application for Homebrew Casks
 - [videolan/vlc-ios](https://github.com/videolan/vlc-ios) - VLC for iOS/iPadOS and tvOS official mirror
@@ -1143,7 +1151,7 @@
 
 - [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather
 - [electerm/electerm](https://github.com/electerm/electerm) - 📻Terminal/ssh/telnet/serialport/sftp client(linux, mac, win)
-- [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a blazingly-fast modern Rust based GPU-accelerated terminal built to make you and your team more productive.
+- [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a modern, Rust-based terminal with AI built in so you and your team can build great software, faster.
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
 
 ## testing 
@@ -1160,6 +1168,7 @@
 
 ## typescript 
 
+- [wangdoc/typescript-tutorial](https://github.com/wangdoc/typescript-tutorial) - TypeScript 教程
 - [udecode/plate](https://github.com/udecode/plate) - The rich-text editor framework for React.
 - [codex-team/editor.js](https://github.com/codex-team/editor.js) - A block-style editor with clean JSON output
 - [tremorlabs/tremor](https://github.com/tremorlabs/tremor) - The React library to build dashboards fast.
