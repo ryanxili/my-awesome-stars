@@ -85,6 +85,7 @@
 
 ## Dart 
 
+- [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
 - [wanghongenpin/network_proxy_flutter](https://github.com/wanghongenpin/network_proxy_flutter) - 开源免费抓包软件ProxyPin，支持全平台系统，用flutter框架开发
 - [fregie/pho](https://github.com/fregie/pho) - A serverless application for viewing and synchronizing photos to cloud storage
@@ -228,6 +229,7 @@
 ## Objective-C 
 
 - [sveinbjornt/Sloth](https://github.com/sveinbjornt/Sloth) - Mac app that shows all open files, directories, sockets, pipes and devices in use by all running processes. Nice GUI for lsof.
+- [videolan/vlc-ios](https://github.com/videolan/vlc-ios) - VLC for iOS/iPadOS and tvOS official mirror
 - [sparkle-project/Sparkle](https://github.com/sparkle-project/Sparkle) - A software update framework for macOS
 - [tisfeng/Easydict](https://github.com/tisfeng/Easydict) - 一个简洁优雅的词典翻译 macOS App。开箱即用，支持离线 OCR 识别，支持有道词典，🍎 苹果系统词典，🍎 苹果系统翻译，ChatGPT，DeepL，Google，Bing，腾讯，百度，小牛，彩云和火山翻译。A concise and elegant Dictionary and Translator macOS App for looking up words and translatin
 - [Instagram/IGListKit](https://github.com/Instagram/IGListKit) - A data-driven UICollectionView framework for building fast and flexible lists.
@@ -235,6 +237,8 @@
 
 ## Others 
 
+- [lanceliao/china-holiday-calender](https://github.com/lanceliao/china-holiday-calender) - 中国节假日、调休、补班日历，ICS格式，可供IPhone、Google Calendar、Outlook等客户端订阅，包含节假日API
+- [linexjlin/GPTs](https://github.com/linexjlin/GPTs) - leaked prompts of GPTs
 - [itgoyo/TelegramGroup](https://github.com/itgoyo/TelegramGroup) - 悄咪咪收集的1000+个Telegram群合集，如果有更多好玩的telegram群，欢迎在 issue 提出或者pull requests
 - [tauri-apps/awesome-tauri](https://github.com/tauri-apps/awesome-tauri) - 🚀 Awesome Tauri Apps, Plugins and Resources
 - [o0HalfLife0o/TVBoxOSC](https://github.com/o0HalfLife0o/TVBoxOSC) - 
@@ -387,7 +391,6 @@
 - [Juanpe/SkeletonView](https://github.com/Juanpe/SkeletonView) - ☠️ An elegant way to show users that something is happening and also prepare them to which contents they are awaiting
 - [whitesmith/WSTagsField](https://github.com/whitesmith/WSTagsField) - An iOS text field that represents tags, hashtags, tokens in general.
 - [milanvarady/Applite](https://github.com/milanvarady/Applite) - User-friendly GUI macOS application for Homebrew Casks
-- [videolan/vlc-ios](https://github.com/videolan/vlc-ios) - VLC for iOS/iPadOS and tvOS official mirror
 - [lo-cafe/winston](https://github.com/lo-cafe/winston) - a beautiful and native Reddit client for iOS
 - [Ramotion/animated-tab-bar](https://github.com/Ramotion/animated-tab-bar) - :octocat: RAMAnimatedTabBarController is a Swift UI module library for adding animation to iOS tabbar items and icons. iOS library made by @Ramotion
 - [willowtreeapps/spruce-ios](https://github.com/willowtreeapps/spruce-ios) - Swift library for choreographing animations on the screen.
@@ -456,6 +459,7 @@
 
 ## TypeScript 
 
+- [movie-web/movie-web](https://github.com/movie-web/movie-web) - A small web app for watching movies and shows easily
 - [rubickCenter/rubick](https://github.com/rubickCenter/rubick) - 🔧  Electron based open source toolbox, free integration of rich plug-ins. 基于 electron 的开源工具箱，自由集成丰富插件。
 - [keiko233/clash-nyanpasu](https://github.com/keiko233/clash-nyanpasu) - Clash Nyanpasu! (∠・ω&lt; )⌒☆​
 - [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React
