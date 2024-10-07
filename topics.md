@@ -185,6 +185,7 @@
 - [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
 - [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
 - [InkTimeRecord/TTime](https://github.com/InkTimeRecord/TTime) - 🚀 Screenshots, word marking, OCR, AI, translation software || 截图、划词、文字识别、AI、翻译软件
+- [dbkangaroo/kangaroo](https://github.com/dbkangaroo/kangaroo) - DBKangaroo's official repo for issue tracker and I18N
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
 - [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox) - User-friendly Desktop Client App for AI Models/LLMs (GPT, Claude, Gemini, Ollama...)
 - [xx025/carrot](https://github.com/xx025/carrot) - Free ChatGPT Site List 这儿为你准备了众多免费好用的ChatGPT镜像站点
@@ -347,6 +348,7 @@
 
 ## c 
 
+- [RPCS3/rpcs3](https://github.com/RPCS3/rpcs3) - PlayStation 3 emulator and debugger
 - [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line video player
 - [videolan/vlc](https://github.com/videolan/vlc) - VLC media player - All pull requests are ignored, please use MRs on https://code.videolan.org/videolan/vlc
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
@@ -382,6 +384,7 @@
 
 ## chrome 
 
+- [amir1376/ab-download-manager](https://github.com/amir1376/ab-download-manager) - A Download Manager that speeds up your downloads
 - [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
 - [eallion/uBlacklist-subscription-compilation](https://github.com/eallion/uBlacklist-subscription-compilation) - 🚫 uBlacklist subscription 订阅合集
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
@@ -442,7 +445,7 @@
 
 - [andreasfertig/cppinsights](https://github.com/andreasfertig/cppinsights) - C++ Insights - See your source code with the eyes of a compiler
 - [Librum-Reader/Librum](https://github.com/Librum-Reader/Librum) - The Librum client application
-- [RPCS3/rpcs3](https://github.com/RPCS3/rpcs3) - PS3 emulator/debugger
+- [RPCS3/rpcs3](https://github.com/RPCS3/rpcs3) - PlayStation 3 emulator and debugger
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
 - [yhirose/cpp-httplib](https://github.com/yhirose/cpp-httplib) - A C++ header-only HTTP/HTTPS server and client library
 - [fmtlib/fmt](https://github.com/fmtlib/fmt) - A modern formatting library
@@ -501,7 +504,7 @@
 
 ## deep-learning 
 
-- [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - NEW - YOLOv8 🚀 in PyTorch &gt; ONNX &gt; OpenVINO &gt; CoreML &gt; TFLite
+- [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - Ultralytics YOLO11 🚀
 - [huggingface/course](https://github.com/huggingface/course) - The Hugging Face course on Transformers
 - [openai/CLIP](https://github.com/openai/CLIP) - CLIP (Contrastive Language-Image Pretraining),  Predict the most relevant text snippet given an image
 - [google-ai-edge/mediapipe](https://github.com/google-ai-edge/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
@@ -603,7 +606,7 @@
 
 ## emulator 
 
-- [RPCS3/rpcs3](https://github.com/RPCS3/rpcs3) - PS3 emulator/debugger
+- [RPCS3/rpcs3](https://github.com/RPCS3/rpcs3) - PlayStation 3 emulator and debugger
 
 ## finance 
 
@@ -611,6 +614,7 @@
 
 ## firefox 
 
+- [amir1376/ab-download-manager](https://github.com/amir1376/ab-download-manager) - A Download Manager that speeds up your downloads
 - [zen-browser/desktop](https://github.com/zen-browser/desktop) - 🌀 Experience tranquillity while browsing the web without people tracking you!
 - [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
 - [eallion/uBlacklist-subscription-compilation](https://github.com/eallion/uBlacklist-subscription-compilation) - 🚫 uBlacklist subscription 订阅合集
@@ -769,7 +773,7 @@
 - [huggingface/course](https://github.com/huggingface/course) - The Hugging Face course on Transformers
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
-- [RPCS3/rpcs3](https://github.com/RPCS3/rpcs3) - PS3 emulator/debugger
+- [RPCS3/rpcs3](https://github.com/RPCS3/rpcs3) - PlayStation 3 emulator and debugger
 - [harness/harness](https://github.com/harness/harness) - Harness Open Source is an end-to-end developer platform with Source Control Management, CI/CD Pipelines, Hosted Developer Environments, and Artifact Registries.
 - [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
 - [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line video player
@@ -782,16 +786,16 @@
 - [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2024
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
 - [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) - 😸 Soothing pastel theme for the high-spirited!
-- [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System
+- [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy) - 🦄  A curated list of privacy & security-focused software and services
 - [digitalocean/nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) - ⚙️ NGINX config generator on steroids 💉
-- [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [yuzutech/kroki](https://github.com/yuzutech/kroki) - Creates diagrams from textual descriptions!
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is an AI collaborative workspace where you achieve more without losing control of your data. The best open source alternative to Notion.
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 - [weiran/Hackers](https://github.com/weiran/Hackers) - Hackers is an elegant iOS app for reading Hacker News written in Swift.
+- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [actionsflow/actionsflow](https://github.com/actionsflow/actionsflow) - The free Zapier/IFTTT alternative for developers to automate your workflows based on Github actions
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [nextcloud/ios](https://github.com/nextcloud/ios) - 📱 Nextcloud iOS App
@@ -843,6 +847,7 @@
 
 ## ios 
 
+- [danielsaidi/DeckKit](https://github.com/danielsaidi/DeckKit) - DeckKit is a SwiftUI SDK that helps you build deck-based apps.
 - [sparrowcode/PermissionsKit](https://github.com/sparrowcode/PermissionsKit) - Universal API for request permission and get its statuses.
 - [Danie1s/Tiercel](https://github.com/Danie1s/Tiercel) - 简单易用、功能丰富的纯 Swift 下载框架
 - [raj457036/copycat_clipboard](https://github.com/raj457036/copycat_clipboard) - Copycat Clipboard is an intuitive clipboard manager designed to enhance your workflow. Seamlessly switch between documents, apps, and devices while keeping all your copied items organized and accessib
@@ -973,6 +978,7 @@
 
 ## kotlin 
 
+- [amir1376/ab-download-manager](https://github.com/amir1376/ab-download-manager) - A Download Manager that speeds up your downloads
 - [maxrave-dev/SimpMusic](https://github.com/maxrave-dev/SimpMusic) - A simple music app using YouTube Music for backend
 - [Ashinch/ReadYou](https://github.com/Ashinch/ReadYou) - An Android RSS reader presented in Material You style.
 - [Tencent/MMKV](https://github.com/Tencent/MMKV) - An efficient, small mobile key-value storage framework developed by WeChat. Works on Android, iOS, macOS, Windows, and POSIX.
@@ -1007,6 +1013,7 @@
 
 ## linux 
 
+- [amir1376/ab-download-manager](https://github.com/amir1376/ab-download-manager) - A Download Manager that speeds up your downloads
 - [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”.
 - [raj457036/copycat_clipboard](https://github.com/raj457036/copycat_clipboard) - Copycat Clipboard is an intuitive clipboard manager designed to enhance your workflow. Seamlessly switch between documents, apps, and devices while keeping all your copied items organized and accessib
 - [4gray/iptvnator](https://github.com/4gray/iptvnator) - :tv: Cross-platform IPTV player application with multiple features, such as support of m3u and m3u8 playlists, favorites, TV guide, TV archive/catchup and more.
@@ -1081,13 +1088,14 @@
 
 ## machine-learning 
 
-- [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - NEW - YOLOv8 🚀 in PyTorch &gt; ONNX &gt; OpenVINO &gt; CoreML &gt; TFLite
+- [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - Ultralytics YOLO11 🚀
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
 - [openai/CLIP](https://github.com/openai/CLIP) - CLIP (Contrastive Language-Image Pretraining),  Predict the most relevant text snippet given an image
 - [google-ai-edge/mediapipe](https://github.com/google-ai-edge/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
 
 ## macos 
 
+- [danielsaidi/DeckKit](https://github.com/danielsaidi/DeckKit) - DeckKit is a SwiftUI SDK that helps you build deck-based apps.
 - [p0deje/Maccy](https://github.com/p0deje/Maccy) - Lightweight clipboard manager for macOS
 - [zenangst/KeyboardCowboy](https://github.com/zenangst/KeyboardCowboy) - :keyboard: The missing keyboard shortcut utility for macOS
 - [Mnpn/Azayaka](https://github.com/Mnpn/Azayaka) - A small macOS menu bar-residing screen and system audio recorder which uses the ScreenCaptureKit API introduced in Ventura
@@ -1331,6 +1339,7 @@
 
 ## opengl 
 
+- [RPCS3/rpcs3](https://github.com/RPCS3/rpcs3) - PlayStation 3 emulator and debugger
 - [natario1/CameraView](https://github.com/natario1/CameraView) - 📸 A well documented, high-level Android interface that makes capturing pictures and videos easy, addressing all of the common issues and needs. Real-time filters, gestures, watermarks, frame processin
 
 ## osint 
@@ -1389,7 +1398,7 @@
 - [TeamStuQ/skill-map](https://github.com/TeamStuQ/skill-map) - 程序员技能图谱
 - [Akifyss/obsidian-border](https://github.com/Akifyss/obsidian-border) - A theme for obsidian.md
 - [VueTorrent/VueTorrent](https://github.com/VueTorrent/VueTorrent) - The sleekest looking WEBUI for qBittorrent made with Vuejs!
-- [Eanya-Tonic/CCTV_Viewer](https://github.com/Eanya-Tonic/CCTV_Viewer) - 电视浏览器，一款基于tv.cctv.com和央视频的简易电视直播收看软件，用于方便的在机顶盒上收看电视节目
+- [Eanya-Tonic/CCTV_Viewer](https://github.com/Eanya-Tonic/CCTV_Viewer) - 电视浏览器，一款简易电视视频收看软件，用于方便的在机顶盒上收看网页视频
 - [slab/quill](https://github.com/slab/quill) - Quill is a modern WYSIWYG editor built for compatibility and extensibility
 - [imfuxiao/Hamster](https://github.com/imfuxiao/Hamster) - librime for iOS App
 - [sfsam/Itsycal](https://github.com/sfsam/Itsycal) - Itsycal is a tiny calendar for your Mac's menu bar. http://www.mowglii.com/itsycal
@@ -1448,7 +1457,7 @@
 - [flutter/samples](https://github.com/flutter/samples) - A collection of Flutter examples and demos
 - [Loyalsoldier/v2ray-rules-dat](https://github.com/Loyalsoldier/v2ray-rules-dat) - 🦄 🎃 👻 V2Ray 路由规则文件加强版，可代替 V2Ray 官方 geoip.dat 和 geosite.dat，适用于 V2Ray、Xray-core、mihomo(Clash-Meta)、hysteria、Trojan-Go 和 leaf。Enhanced edition of V2Ray rules dat files, applicable to V2Ray, Xray-core, m
 - [gfwlist/gfwlist](https://github.com/gfwlist/gfwlist) - The one and only one gfwlist here
-- [Johnshall/Shadowrocket-ADBlock-Rules-Forever](https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever) - 提供多款 Shadowrocket 规则，拥有强劲的广告过滤功能。每日8时重新构建规则。
+- [Johnshall/Shadowrocket-ADBlock-Rules-Forever](https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever) - 提供多款 Shadowrocket 规则，拥有强劲的广告过滤功能。每日 8 时重新构建规则。
 - [hehonghui/awesome-english-ebooks](https://github.com/hehonghui/awesome-english-ebooks) - 经济学人(含音频)、纽约客、卫报、连线、大西洋月刊等英语杂志免费下载,支持epub、mobi、pdf格式, 每周更新
 - [timqian/chinese-independent-blogs](https://github.com/timqian/chinese-independent-blogs) - 中文独立博客列表
 - [zhaoolee/ins](https://github.com/zhaoolee/ins) - 🍭互联网从业者的灵感数据库，无广告，Github Actions自动检测网站访问速度
@@ -1585,7 +1594,7 @@
 
 ## pytorch 
 
-- [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - NEW - YOLOv8 🚀 in PyTorch &gt; ONNX &gt; OpenVINO &gt; CoreML &gt; TFLite
+- [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - Ultralytics YOLO11 🚀
 
 ## qt 
 
@@ -1683,7 +1692,7 @@
 - [sharkdp/hexyl](https://github.com/sharkdp/hexyl) - A command-line hex viewer
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and r
 - [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.
-- [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
+- [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is an AI collaborative workspace where you achieve more without losing control of your data. The best open source alternative to Notion.
 - [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a modern, Rust-based terminal with AI built in so you and your team can build great software, faster.
@@ -1780,6 +1789,7 @@
 
 ## swift 
 
+- [danielsaidi/DeckKit](https://github.com/danielsaidi/DeckKit) - DeckKit is a SwiftUI SDK that helps you build deck-based apps.
 - [pencilresearch/OpenScanner](https://github.com/pencilresearch/OpenScanner) - Fast, reliable, and free document scanner app for iPhone
 - [Mnpn/Azayaka](https://github.com/Mnpn/Azayaka) - A small macOS menu bar-residing screen and system audio recorder which uses the ScreenCaptureKit API introduced in Ventura
 - [suzuki-0000/SKPhotoBrowser](https://github.com/suzuki-0000/SKPhotoBrowser) - Simple PhotoBrowser/Viewer inspired by facebook, twitter photo browsers written by swift
@@ -1871,6 +1881,7 @@
 
 ## swiftui 
 
+- [danielsaidi/DeckKit](https://github.com/danielsaidi/DeckKit) - DeckKit is a SwiftUI SDK that helps you build deck-based apps.
 - [pencilresearch/OpenScanner](https://github.com/pencilresearch/OpenScanner) - Fast, reliable, and free document scanner app for iPhone
 - [amosgyamfi/open-swiftui-animations](https://github.com/amosgyamfi/open-swiftui-animations) - You don't need an animation library to add a simple effect to your SwiftUI app. Create it yourself with SwiftUI. This repo inspires you to add helpful and expressive SwiftUI animations like loading/pr
 - [mazzzystar/Queryable](https://github.com/mazzzystar/Queryable) - Run OpenAI's CLIP and Apple's MobileCLIP model on iOS to search photos.
@@ -2025,6 +2036,7 @@
 
 ## windows 
 
+- [amir1376/ab-download-manager](https://github.com/amir1376/ab-download-manager) - A Download Manager that speeds up your downloads
 - [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”.
 - [raj457036/copycat_clipboard](https://github.com/raj457036/copycat_clipboard) - Copycat Clipboard is an intuitive clipboard manager designed to enhance your workflow. Seamlessly switch between documents, apps, and devices while keeping all your copied items organized and accessib
 - [Lymphatus/caesium-image-compressor](https://github.com/Lymphatus/caesium-image-compressor) - Caesium is an image compression software that helps you store, send and share digital pictures, supporting JPG, PNG, WebP and TIFF formats.   You can quickly reduce the file size (and resolution, if y
