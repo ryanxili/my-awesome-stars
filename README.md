@@ -102,7 +102,6 @@
 
 ## CSS 
 
-- [zen-browser/desktop](https://github.com/zen-browser/desktop) - 🌀 Experience tranquillity while browsing the web without people tracking you!
 - [Akifyss/obsidian-border](https://github.com/Akifyss/obsidian-border) - A theme for obsidian.md
 - [AnubisNekhet/AnuPpuccin](https://github.com/AnubisNekhet/AnuPpuccin) - Personal theme for Obsidian
 - [hehonghui/awesome-english-ebooks](https://github.com/hehonghui/awesome-english-ebooks) - 经济学人(含音频)、纽约客、卫报、连线、大西洋月刊等英语杂志免费下载,支持epub、mobi、pdf格式, 每周更新
@@ -114,6 +113,7 @@
 
 ## Dart 
 
+- [KaringX/karing](https://github.com/KaringX/karing) - Simple & Powerful proxy utility, Support routing rules for clash/sing-box
 - [raj457036/copycat_clipboard](https://github.com/raj457036/copycat_clipboard) - Copycat Clipboard is an intuitive clipboard manager designed to enhance your workflow. Seamlessly switch between documents, apps, and devices while keeping all your copied items organized and accessib
 - [yang991178/fluent-reader-lite](https://github.com/yang991178/fluent-reader-lite) - Simplistic mobile RSS client built with Flutter
 - [Mobile-Artificial-Intelligence/maid](https://github.com/Mobile-Artificial-Intelligence/maid) - Maid is a cross-platform Flutter app for interfacing with GGUF / llama.cpp models locally, and with Ollama and OpenAI models remotely.
@@ -198,8 +198,11 @@
 
 ## JavaScript 
 
+- [cmliu/WorkerVless2sub](https://github.com/cmliu/WorkerVless2sub) - 这个是一个将 Cloudflare Workers - VLESS 搭配 自建优选域名 的 订阅生成器
+- [cmliu/edgetunnel](https://github.com/cmliu/edgetunnel) - 在原版的基础上修改了显示 VLESS 配置信息转换为订阅内容。使用该脚本，你可以方便地将 VLESS 配置信息使用在线配置转换到 Clash 或 Singbox 等工具中。
 - [0xCUB3/wBlock](https://github.com/0xCUB3/wBlock) - The next-generation ad blocker for Safari.
 - [PranshulGG/WeatherMaster](https://github.com/PranshulGG/WeatherMaster) - A Weather app for android 🌦🌞☔
+- [zen-browser/desktop](https://github.com/zen-browser/desktop) - 🌀 Experience tranquillity while browsing the web without people tracking you!
 - [gchq/CyberChef](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
 - [zizifn/edgetunnel](https://github.com/zizifn/edgetunnel) - Running V2ray inside edge/serverless runtime
 - [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of draw.io
@@ -219,7 +222,7 @@
 - [2hacc/TVBox](https://github.com/2hacc/TVBox) - TVBox 网络接口，更新速度快，接口访问速度快且稳定！
 - [fanmingming/live](https://github.com/fanmingming/live) - ✯ 可直连访问的电视/广播图标库与相关工具项目 ✯ 🔕 永久免费 直连访问 完整开源 不断完善的台标 支持IPv4/IPv6双栈访问 🔕
 - [ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) - :bathtub: Clean Code concepts adapted for JavaScript
-- [szimek/sharedrop](https://github.com/szimek/sharedrop) - Easy P2P file transfer powered by WebRTC - inspired by Apple AirDrop
+- [ShareDropio/sharedrop](https://github.com/ShareDropio/sharedrop) - Easy P2P file transfer powered by WebRTC - inspired by Apple AirDrop
 - [gaotianliuyun/gao](https://github.com/gaotianliuyun/gao) - FongMi影视和tvbox配置文件，如果喜欢，请Fork自用。使用前请仔细阅读仓库说明，一旦使用将被视为你已了解。
 - [deezertidal/shadowrocket-rules](https://github.com/deezertidal/shadowrocket-rules) - 小火箭 shadowrocket 配置文件 模块 脚本 module sgmodule 图文教程 规则 分流 破解 解锁
 - [pot-app/pot-desktop](https://github.com/pot-app/pot-desktop) - 🌈一个跨平台的划词翻译和OCR软件 | A cross-platform software for text translation and recognition.
@@ -308,6 +311,7 @@
 - [sindresorhus/Actions](https://github.com/sindresorhus/Actions) - ⚙️ Supercharge your shortcuts
 - [YueChan/Live](https://github.com/YueChan/Live) - 收集于互联网上的一些高清直播源。
 - [DangJin/awesome-iptv](https://github.com/DangJin/awesome-iptv) - 汇总了一些可用的网络电视频道（IPTV）集合的优秀项目
+- [respace-labs/penx](https://github.com/respace-labs/penx) - The space for web3 creators.
 - [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
 - [zhuima/awesome-cloudflare](https://github.com/zhuima/awesome-cloudflare) - ⛅️ 精选的 Cloudflare 工具、开源项目、指南、博客和其他资源列表。/ ⛅️ A curated list of Cloudflare tools, open source projects, guides, blogs and other resources.
 - [reqable/reqable-app](https://github.com/reqable/reqable-app) - Reqable issue track repo
@@ -340,7 +344,7 @@
 - [gfwlist/gfwlist](https://github.com/gfwlist/gfwlist) - The one and only one gfwlist here
 - [Johnshall/Shadowrocket-ADBlock-Rules-Forever](https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever) - 提供多款 Shadowrocket 规则，拥有强劲的广告过滤功能。每日 8 时重新构建规则。
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
-- [privacy-protection-tools/anti-AD](https://github.com/privacy-protection-tools/anti-AD) - 致力于成为中文区命中率最高的广告过滤列表，实现精确的广告屏蔽和隐私保护。anti-AD现已支持AdGuardHome，dnsmasq， Surge，Pi-Hole，smartdns等网络组件。完全兼容常见的广告过滤工具所支持的各种广告过滤列表格式
+- [privacy-protection-tools/anti-AD](https://github.com/privacy-protection-tools/anti-AD) - 致力于成为中文区命中率最高的广告过滤列表，实现精确的广告屏蔽和隐私保护。anti-AD 现已支持 AdGuardHome，dnsmasq，Surge，Pi-Hole，Clash, mihomo，smartdns，sing-box 等网络组件。完全兼容常见的广告过滤工具所支持的各种广告过滤列表格式
 - [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
 - [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
 - [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror) - 整理记录各个包管理器，系统镜像，以及常用软件的好用镜像，Thanks Mirror。     走过路过，如觉不错，麻烦点个赞👆🌟
@@ -457,16 +461,19 @@
 
 ## Shell 
 
-- [beclab/Terminus](https://github.com/beclab/Terminus) - Terminus - Your Self-Hosted Home Cloud, Powered by Kubernetes
+- [beclab/Olares](https://github.com/beclab/Olares) - Olares - Open-Source SelfHosted Alternative to Public Clouds
 - [haiibo/OpenWrt](https://github.com/haiibo/OpenWrt) - 基于 Lean 源码编译的 OpenWrt 固件——适配X86、R2C、R2S、R4S、R4SE、R5C、R5S、香橙派 R1 Plus、树莓派3B、树莓派4B、R66S、R68S、M68S、H28K、H66K、H68K、H88K、H69K、E25、N1、S905x3、S922x、HK1、X96max、微加云、贝壳云、我家云、章鱼星球等
 - [nikitavoloboev/config](https://github.com/nikitavoloboev/config) - Apps/CLIs/configs I use on macOS/iOS. Fish, Karabiner, Cursor..
 
 ## Svelte 
 
+- [Abdenasser/neohtop](https://github.com/Abdenasser/neohtop) - 💪🏻 htop on steroids
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
 
 ## Swift 
 
+- [sheshbabu/Chital](https://github.com/sheshbabu/Chital) - A native macOS app for chatting with local LLMs
+- [stephencelis/SQLite.swift](https://github.com/stephencelis/SQLite.swift) - A type-safe, Swift-language layer over SQLite3.
 - [sindresorhus/Defaults](https://github.com/sindresorhus/Defaults) - 💾 Swifty and modern UserDefaults
 - [huggingface/chat-macOS](https://github.com/huggingface/chat-macOS) - Making the community's best AI chat models available to everyone.
 - [mangerlahn/Latest](https://github.com/mangerlahn/Latest) - A small utility app for macOS that makes sure you know about all the latest updates to the apps you use.
@@ -631,7 +638,6 @@
 - [steven-tey/novel](https://github.com/steven-tey/novel) - Notion-style WYSIWYG editor with AI-powered autocompletion.
 - [th-ch/youtube-music](https://github.com/th-ch/youtube-music) - YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader)
 - [iorate/ublacklist](https://github.com/iorate/ublacklist) - Blocks specific sites from appearing in Google search results
-- [respace-labs/penx](https://github.com/respace-labs/penx) - The space for web3 creators.
 - [stonith404/pingvin-share](https://github.com/stonith404/pingvin-share) - A self-hosted file sharing platform that combines lightness and beauty, perfect for seamless and efficient file sharing.
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 - [atlassian/pragmatic-drag-and-drop](https://github.com/atlassian/pragmatic-drag-and-drop) - Fast drag and drop for any experience on any tech stack
@@ -690,7 +696,7 @@
 
 ## Vala 
 
-- [alainm23/planify](https://github.com/alainm23/planify) - Task manager with Todoist & Nextcloud support designed for GNU/Linux 🚀
+- [alainm23/planify](https://github.com/alainm23/planify) - Task manager with Todoist & Nextcloud support designed for GNOME
 
 ## Vim Script 
 
