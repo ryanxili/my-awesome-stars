@@ -59,7 +59,7 @@
 - [FelixKratz/SketchyBar](https://github.com/FelixKratz/SketchyBar) - A highly customizable macOS status bar replacement
 - [lmarzen/esp32-weather-epd](https://github.com/lmarzen/esp32-weather-epd) - A low-power E-Paper weather display powered by an ESP32 microcontroller. Utilizes the OpenWeatherMap API.
 - [easychen/pushdeer](https://github.com/easychen/pushdeer) - 开放源码的无App推送服务，iOS14+扫码即用。亦支持快应用/iOS和Mac客户端、Android客户端、自制设备
-- [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line video player
+- [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line media player
 - [videolan/vlc](https://github.com/videolan/vlc) - VLC media player - All pull requests are ignored, please use MRs on https://code.videolan.org/videolan/vlc
 - [antirez/kilo](https://github.com/antirez/kilo) - A text editor in less than 1000 LOC with syntax highlight and search.
 - [babbleberry/rpi4-osdev](https://github.com/babbleberry/rpi4-osdev) - Tutorial: Writing a "bare metal" operating system for Raspberry Pi 4
@@ -140,7 +140,7 @@
 - [Mobile-Artificial-Intelligence/maid](https://github.com/Mobile-Artificial-Intelligence/maid) - Maid is a cross-platform Flutter app for interfacing with GGUF / llama.cpp models locally, and with Ollama and OpenAI models remotely.
 - [chen08209/FlClash](https://github.com/chen08209/FlClash) - A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.
 - [hiddify/hiddify-app](https://github.com/hiddify/hiddify-app) - Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria, Reality, Trojan, SSH etc. It’s an open-source, secure and ad-free.
-- [ente-io/ente](https://github.com/ente-io/ente) - End-to-end encrypted, FOSS cloud for Photos, 2FA secrets and more!
+- [ente-io/ente](https://github.com/ente-io/ente) - End-to-end encrypted platform for photos, videos and 2FA secrets.
 - [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A modern download manager that supports all platforms.  Built with Golang and Flutter.
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
 - [lijy91/biyi](https://github.com/lijy91/biyi) - Biyi (比译) is a convenient translation and dictionary app written in Flutter.
@@ -159,6 +159,8 @@
 
 ## Go 
 
+- [yusing/godoxy](https://github.com/yusing/godoxy) - Easy to use reverse proxy with docker integration
+- [0x2E/fusion](https://github.com/0x2E/fusion) - A lightweight, self-hosted friendly RSS reader
 - [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store
 - [matryer/xbar](https://github.com/matryer/xbar) - Put the output from any script or program into your macOS Menu Bar (the BitBar reboot)
 - [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program
@@ -355,6 +357,7 @@
 
 ## Objective-C 
 
+- [brunophilipe/Cakebrew](https://github.com/brunophilipe/Cakebrew) - Manage your Homebrew formulas with style using Cakebrew.
 - [pilotmoon/Scroll-Reverser](https://github.com/pilotmoon/Scroll-Reverser) - Per-device scrolling prefs on macOS.
 - [objective-see/LuLu](https://github.com/objective-see/LuLu) - LuLu is the free open-source macOS firewall
 - [wuba/WBBlades](https://github.com/wuba/WBBlades) - Mach-O based ObjC & Swift useless classes, useless protocols, useless resources detection, packet size analysis, point-to-point crash resolution.基于Mach-O的ObjC & Swift无用类、无用协议、无用资源检测，包大小分析，点对点崩溃解析。
@@ -465,6 +468,7 @@
 
 ## Python 
 
+- [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项
 - [suitenumerique/docs](https://github.com/suitenumerique/docs) - A collaborative note taking, wiki and documentation platform that scales. Built with Django and React. Opensource alternative to Notion or Outline.
 - [Anjok07/ultimatevocalremovergui](https://github.com/Anjok07/ultimatevocalremovergui) - GUI for a Vocal Remover that uses Deep Neural Networks.
 - [dortania/OpenCore-Legacy-Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher) - Experience macOS just like before
@@ -472,7 +476,7 @@
 - [ZhiXuanWang/cf-speed-dns](https://github.com/ZhiXuanWang/cf-speed-dns) - CloudflareSpeedTest 推送「每5分钟自选优选 IP」https://ip.164746.xyz
 - [roboflow/maestro](https://github.com/roboflow/maestro) - streamline the fine-tuning process for multimodal models: PaliGemma 2, Florence-2, and Qwen2.5-VL
 - [vastsa/FileCodeBox](https://github.com/vastsa/FileCodeBox) - 文件快递柜-匿名口令分享文本，文件，像拿快递一样取文件（FileCodeBox - File Express Cabinet - Anonymous Passcode Sharing Text, Files, Like Taking Express Delivery for Files）
-- [huggingface/smolagents](https://github.com/huggingface/smolagents) - 🤗 smolagents: a barebones library for agents. Agents write python code to call tools and orchestrate other agents.
+- [huggingface/smolagents](https://github.com/huggingface/smolagents) - 🤗 smolagents: a barebones library for agents that think in python code.
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) - Make websites accessible for AI agents
 - [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
 - [2noise/ChatTTS](https://github.com/2noise/ChatTTS) - A generative speech model for daily dialogue.
@@ -570,6 +574,7 @@
 
 ## Swift 
 
+- [RevenueCat/purchases-ios](https://github.com/RevenueCat/purchases-ios) - In-app purchases and subscriptions made easy. Support for iOS, watchOS, tvOS, macOS, and visionOS.
 - [jaywcjlove/paste-quick](https://github.com/jaywcjlove/paste-quick) - PasteQuick is a privacy-focused and simple clipboard management tool designed to help you efficiently manage various temporary data such as text, links, images, and code. It records everything you cop
 - [Beingpax/VoiceInk](https://github.com/Beingpax/VoiceInk) - Voice-to-text app for macOS to transcribe what you say to text almost instantly
 - [glinford/dns-easy-switcher](https://github.com/glinford/dns-easy-switcher) - DNS Easy Switcher (for MacOS)
@@ -592,7 +597,7 @@
 - [jaywcjlove/daybar](https://github.com/jaywcjlove/daybar) - DayBar is an app that displays local date, reminders, and events in the menu bar. By clicking on DayBar in the menu bar, you can view your calendar, events, and reminders, which can also be synchroniz
 - [mainframecomputer/fullmoon-ios](https://github.com/mainframecomputer/fullmoon-ios) - chat with private and local large language models
 - [sindresorhus/KeyboardShortcuts](https://github.com/sindresorhus/KeyboardShortcuts) - ⌨️ Add user-customizable global keyboard shortcuts (hotkeys) to your macOS app in minutes
-- [alienator88/Viz](https://github.com/alienator88/Viz) - Capture text/QR Codes/Barcodes from screen snippets
+- [alienator88/Viz](https://github.com/alienator88/Viz) - Capture text/QR Codes/Barcodes/Colors from screen snippets
 - [yihui-hu/YUI](https://github.com/yihui-hu/YUI) - custom view transitions and novel user interfaces in UIKit
 - [seemoo-lab/openhaystack](https://github.com/seemoo-lab/openhaystack) - Build your own 'AirTags' 🏷 today! Framework for tracking personal Bluetooth devices via Apple's massive Find My network.
 - [onmyway133/EasyStash](https://github.com/onmyway133/EasyStash) - 🗳Easy data persistence in Swift
@@ -767,6 +772,7 @@
 
 ## TypeScript 
 
+- [zaidmukaddam/scira](https://github.com/zaidmukaddam/scira) - Scira (Formerly MiniPerplx) is a minimalistic AI-powered search engine that helps you find information on the internet. Powered by Vercel AI SDK! Search with models like Grok 2.0.
 - [RSSNext/Folo](https://github.com/RSSNext/Folo) - 🧡 Follow everything in one place
 - [aceberg/WatchYourLAN](https://github.com/aceberg/WatchYourLAN) - Lightweight network IP scanner. Can be used to notify about new hosts and monitor host online/offline history
 - [ThinkInAIXYZ/deepchat](https://github.com/ThinkInAIXYZ/deepchat) - DeepChat - 连接强大AI与个人世界的智能助手 | DeepChat - A smart assistant that connects powerful AI to your personal world
@@ -844,7 +850,7 @@
 - [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React
 - [microsoft/inshellisense](https://github.com/microsoft/inshellisense) - IDE style command line auto complete
 - [GoogleChromeLabs/squoosh](https://github.com/GoogleChromeLabs/squoosh) - Make images smaller using best-in-class codecs, right in the browser.
-- [GriffinJohnston/ldrs](https://github.com/GriffinJohnston/ldrs) - Modern, tree-shakeable loader & spinner web components. Made with CSS, HTML and SVG. https://uiball.com/ldrs
+- [GriffinJohnston/ldrs](https://github.com/GriffinJohnston/ldrs) - Modern, tree-shakeable loaders & spinners. Made with CSS, HTML and SVG. https://uiball.com/ldrs
 - [unjs/consola](https://github.com/unjs/consola) - 🐨 Elegant Console Logger for Node.js and Browser
 - [zhanglun/lettura](https://github.com/zhanglun/lettura) - another rss reader
 - [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore) - Omnivore is a complete, open source read-it-later solution for people who like reading.
