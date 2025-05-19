@@ -169,6 +169,7 @@
 
 ## Go 
 
+- [nextdns/nextdns](https://github.com/nextdns/nextdns) - NextDNS CLI client (DoH Proxy)
 - [kopia/kopia](https://github.com/kopia/kopia) - Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.
 - [yusing/godoxy](https://github.com/yusing/godoxy) - Easy to use reverse proxy with docker integration
 - [0x2E/fusion](https://github.com/0x2E/fusion) - A lightweight, self-hosted friendly RSS reader
@@ -243,6 +244,10 @@
 
 ## JavaScript 
 
+- [yonggekkk/sb-nodejs](https://github.com/yonggekkk/sb-nodejs) - Node.js环境搭建vless-ws-tls脚本，支持一键无交互回车模式，支持clawcloud、webhostmost
+- [MHSanaei/3x-ui](https://github.com/MHSanaei/3x-ui) - Xray panel supporting multi-protocol multi-user expire day & traffic & IP limit (Vmess & Vless & Trojan &  ShadowSocks & Wireguard)
+- [mozilla-firefox/firefox](https://github.com/mozilla-firefox/firefox) - The official repository of Mozilla's Firefox web browser.
+- [jeanchristophe13v/PageTalk](https://github.com/jeanchristophe13v/PageTalk) - Pagetalk is a beautiful browser extension that allows you to use Gemini to read page content and have multiple conversations.
 - [6Kmfi6HP/EDtunnel](https://github.com/6Kmfi6HP/EDtunnel) - EDtunnel 是一个基于 Cloudflare Workers 和 Pages 的代理工具，支持多种协议和配置选项。  EDtunnel is a proxy tool based on Cloudflare Workers and Pages, supporting multiple protocols and configuration options.
 - [SnapDrop/snapdrop](https://github.com/SnapDrop/snapdrop) - A Progressive Web App for local file sharing
 - [mozilla/readability](https://github.com/mozilla/readability) - A standalone version of the readability lib
@@ -284,7 +289,7 @@
 - [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity) - The free and privacy-friendly screen recorder with no limits 🎥
 - [vernesong/OpenClash](https://github.com/vernesong/OpenClash) - A Clash Client For OpenWrt
 - [xxxily/h5player](https://github.com/xxxily/h5player) - This software supports all audio and video websites, such as TikTok, YouTube, Bilibili, TED, Instagram, Twitter, etc. Features include: variable playback speed, screen capture, video download, custom 
-- [plankanban/planka](https://github.com/plankanban/planka) - PLANKA is the kanban-style project mastering tool for everyone
+- [plankanban/planka](https://github.com/plankanban/planka) - PLANKA is the kanban-style project mastering tool for everyone.
 - [insin/control-panel-for-twitter](https://github.com/insin/control-panel-for-twitter) - Browser extension which gives you more control over your Twitter timeline and adds missing features and UI improvements - for desktop and mobile
 - [koodo-reader/koodo-reader](https://github.com/koodo-reader/koodo-reader) - A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux, Android, iOS and Web
 - [wanglin2/mind-map](https://github.com/wanglin2/mind-map) - 一个还算强大的Web思维导图。A relatively powerful web mind map.
@@ -390,6 +395,7 @@
 
 ## Others 
 
+- [LOWERTOP/Shadowrocket](https://github.com/LOWERTOP/Shadowrocket) - Shadowrocket 使用手册 补完计划
 - [ymyuuu/IPDB](https://github.com/ymyuuu/IPDB) - Cloudflare反代优选IP库
 - [yanue/V2rayU](https://github.com/yanue/V2rayU) - V2rayU,基于v2ray核心的mac版客户端,用于科学上网,使用swift编写,支持trojan,vmess,shadowsocks,socks5等服务协议,支持订阅, 支持二维码,剪贴板导入,手动配置,二维码分享等
 - [httpie/desktop](https://github.com/httpie/desktop) - 🚀 HTTPie Desktop — cross-platform API testing client for humans. Painlessly test REST, GraphQL, and HTTP APIs.
@@ -487,6 +493,8 @@
 
 ## Python 
 
+- [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from thousands of sites
+- [y9nhjy/Proxifier-Keygen](https://github.com/y9nhjy/Proxifier-Keygen) - Proxifier注册机
 - [vbskycn/iptv](https://github.com/vbskycn/iptv) - iptv最新可用直播源iptv4/iptv6。直播电视系统，这里有折腾好了的，直接下载用吧。直播电视app电视手机全部兼容。（包含港澳台）
 - [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
 - [fish2018/ClashForge](https://github.com/fish2018/ClashForge) - 代理节点全自动采集、聚合、去重、批量检测、移除失效节点，按延迟/下载速度排序，一键生成clash、singbox永久订阅链接，支持mac、linux、windows、docker，支持WebUI操作
@@ -509,7 +517,7 @@
 - [jianchang512/pyvideotrans](https://github.com/jianchang512/pyvideotrans) - Translate the video from one language to another and add dubbing.         将视频从一种语言翻译为另一种语言，同时支持语音识别转录、语音合成、字幕翻译。
 - [jasonxtn/Argus](https://github.com/jasonxtn/Argus) - The Ultimate Information Gathering Toolkit
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
-- [Guovin/iptv-api](https://github.com/Guovin/iptv-api) - 📺IPTV电视直播源更新项目『✨秒播级体验🚀』：支持RTMP推流；支持IPv4/IPv6；支持自定义频道与EPG；支持多种源获取方式；支持获取归属地与运营商；每天自动更新两次，结果可用于TVBox等播放软件；支持工作流、Docker(amd64/arm64/arm v7)、命令行、GUI运行方式 | IPTV live TV source update project
+- [Guovin/iptv-api](https://github.com/Guovin/iptv-api) - 📺IPTV电视直播源更新项目『✨秒播级体验🚀』：支持自定义频道与EPG；支持多种源获取方式；支持RTMP推流；支持IPv4/IPv6；支持获取归属地与运营商；每天自动更新两次，结果可用于TVBox等播放软件；支持工作流、Docker(amd64/arm64/arm v7)、命令行、GUI运行方式 | IPTV live TV source update project
 - [Huanshere/VideoLingo](https://github.com/Huanshere/VideoLingo) - Netflix-level subtitle cutting, translation, alignment, and even dubbing - one-click fully automated AI video subtitle team | Netflix级字幕切割、翻译、对齐、甚至加上配音，一键全自动视频搬运AI字幕组
 - [serengil/deepface](https://github.com/serengil/deepface) - A Lightweight Face Recognition and Facial Attribute Analysis (Age, Gender, Emotion and Race) Library for Python
 - [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - Ultralytics YOLO11 🚀
@@ -550,7 +558,7 @@
 - [longbridge/gpui-component](https://github.com/longbridge/gpui-component) - UI components for building fantastic desktop application by using GPUI.
 - [TheWaWaR/simple-http-server](https://github.com/TheWaWaR/simple-http-server) - Simple http server in Rust (Windows/Mac/Linux)
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
-- [alexpasmantier/television](https://github.com/alexpasmantier/television) - A cross-platform, fast and extensible general purpose fuzzy finder TUI 📺
+- [alexpasmantier/television](https://github.com/alexpasmantier/television) - A cross-platform, fast and extensible general purpose fuzzy finder 📺
 - [hanshuaikang/Nping](https://github.com/hanshuaikang/Nping) - 🏎  Nping mean NB Ping, A Ping Tool in Rust with Real-Time Data and Visualizations
 - [Y2Z/monolith](https://github.com/Y2Z/monolith) - ⬛️ CLI tool and library for saving complete web pages as a single HTML file
 - [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
@@ -584,7 +592,7 @@
 ## Shell 
 
 - [fscarmen/sing-box](https://github.com/fscarmen/sing-box) - Sing-box 全家桶 --- 一键多协议脚本
-- [xykt/NetQuality](https://github.com/xykt/NetQuality) - A script for network quality detection
+- [xykt/NetQuality](https://github.com/xykt/NetQuality) - 网络质量检测脚本 - Network Quality Check Script
 - [MetaCubeX/meta-rules-dat](https://github.com/MetaCubeX/meta-rules-dat) - rules-dat for mihomo
 - [monlor/docker-xiaoya](https://github.com/monlor/docker-xiaoya) - 💡 Use Docker Compose to deploy Xiaoya services in a more elegant way, supports one-click deployment of Alist + Emby + Jellyfin, full-platform support, Linux/Windows/Mac/Synology, X86/Arm architecture
 - [skywind3000/awesome-cheatsheets](https://github.com/skywind3000/awesome-cheatsheets) - 超级速查表 - 编程语言、框架和开发工具的速查表，单个文件包含一切你需要知道的东西 :zap:
@@ -601,6 +609,8 @@
 
 ## Swift 
 
+- [xtool-org/xtool](https://github.com/xtool-org/xtool) - Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.
+- [synth-inc/onit](https://github.com/synth-inc/onit) - Onit MacOS client
 - [ml-explore/mlx-swift-examples](https://github.com/ml-explore/mlx-swift-examples) - Examples using MLX Swift
 - [Marginal/QLVideo](https://github.com/Marginal/QLVideo) - This package allows macOS Finder to display thumbnails, static QuickLook previews, cover art and metadata for most types of video files.
 - [scinfu/SwiftSoup](https://github.com/scinfu/SwiftSoup) - SwiftSoup: Pure Swift HTML Parser, with best of DOM, CSS, and jquery (Supports Linux, iOS, Mac, tvOS, watchOS)
@@ -810,6 +820,7 @@
 
 ## TypeScript 
 
+- [Heavrnl/nexus-terminal](https://github.com/Heavrnl/nexus-terminal) - 一款现代化的 Web SSH / RDP / VNC 客户端，支持人机验证、2FA、界面定制、操作审计等强大功能。
 - [pluveto/daan](https://github.com/pluveto/daan) - ✨Lightweight LLM Client with MCP 🔌 & Characters 👤
 - [star7th/jisuxiang](https://github.com/star7th/jisuxiang) - JiSuXiang  is a high-quality, visually appealing online developer toolbox that provides a comprehensive collection of essential development tools for programmers
 - [vercel/ai-chatbot](https://github.com/vercel/ai-chatbot) - A full-featured, hackable Next.js AI chatbot built by Vercel
@@ -822,7 +833,7 @@
 - [SSShooter/mind-elixir-core](https://github.com/SSShooter/mind-elixir-core) - ⚗ Mind Elixir is a JavaScript, framework-agnostic mind map core.
 - [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
 - [a-ghorbani/pocketpal-ai](https://github.com/a-ghorbani/pocketpal-ai) - An app that brings language models directly to your phone.
-- [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
+- [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
 - [microsoft/data-formulator](https://github.com/microsoft/data-formulator) - 🪄 Create rich visualizations with AI
 - [pheralb/svgl](https://github.com/pheralb/svgl) - 🧩 A beautiful library with SVG logos. Built with Sveltekit & Tailwind CSS.
 - [daytonaio/daytona](https://github.com/daytonaio/daytona) - Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code
@@ -878,7 +889,7 @@
 - [th-ch/youtube-music](https://github.com/th-ch/youtube-music) - YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader)
 - [iorate/ublacklist](https://github.com/iorate/ublacklist) - Blocks specific sites from appearing in Google search results
 - [Bistutu/FluentRead](https://github.com/Bistutu/FluentRead) - Open Immersive Translate. A revolutionary open-source browser translation plugin that enables everyone to have a native-like reading experience. 开源的沉浸式翻译，一款革命性的浏览器翻译插件，让所有人都能够拥有母语般的阅读体验。
-- [penxio/penx](https://github.com/penxio/penx) - Next generation dynamic blogging tools, 100% run on Cloudflare.
+- [penxio/penx](https://github.com/penxio/penx) - A structured note-taking App.
 - [stonith404/pingvin-share](https://github.com/stonith404/pingvin-share) - A self-hosted file sharing platform that combines lightness and beauty, perfect for seamless and efficient file sharing.
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 - [atlassian/pragmatic-drag-and-drop](https://github.com/atlassian/pragmatic-drag-and-drop) - Fast drag and drop for any experience on any tech stack
@@ -910,7 +921,7 @@
 - [didi/LogicFlow](https://github.com/didi/LogicFlow) - A flow chart editing framework focus on business customization.  专注于业务自定义的流程图编辑框架，支持实现脑图、ER图、UML、工作流等各种图编辑场景。
 - [radix-ui/primitives](https://github.com/radix-ui/primitives) - Radix Primitives is an open-source UI component library for building high-quality, accessible design systems and web apps. Maintained by @workos.
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
-- [udecode/plate](https://github.com/udecode/plate) - A rich-text editor powered by AI
+- [udecode/plate](https://github.com/udecode/plate) - Rich-text editor with AI, MCP, and shadcn/ui
 - [codex-team/editor.js](https://github.com/codex-team/editor.js) - A block-style editor with clean JSON output
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
 - [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2024
