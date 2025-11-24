@@ -265,6 +265,7 @@
 - [udecode/plate](https://github.com/udecode/plate) - Rich-text editor with AI, MCP, and shadcn/ui
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [xx025/carrot](https://github.com/xx025/carrot) - Free ChatGPT Site List 这儿为你准备了众多免费好用的ChatGPT镜像站点
+- [jacklandrin/OnlySwitch](https://github.com/jacklandrin/OnlySwitch) - ⚙️ All-in-One menu bar app, hide 💻MacBook Pro's notch, dark mode, AirPods, Shortcuts
 
 ## ai-agents 
 
@@ -272,6 +273,7 @@
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
 - [beclab/Olares](https://github.com/beclab/Olares) - Olares: An Open-Source Personal Cloud to Reclaim Your Data
+- [jacklandrin/OnlySwitch](https://github.com/jacklandrin/OnlySwitch) - ⚙️ All-in-One menu bar app, hide 💻MacBook Pro's notch, dark mode, AirPods, Shortcuts
 
 ## algorithm 
 
@@ -294,7 +296,7 @@
 - [clementwzk/OpenCalc](https://github.com/clementwzk/OpenCalc) - A simple and beautiful calculator for Android downloaded more than 250k times
 - [vicolo-dev/chrono](https://github.com/vicolo-dev/chrono) - A modern and powerful clock, alarms, timer and stopwatch app for Android!
 - [aws-samples/swift-chat](https://github.com/aws-samples/swift-chat) - A lightning-fast, cross-platform AI chat application built with React Native.
-- [rikkahub/rikkahub](https://github.com/rikkahub/rikkahub) - RikkaHub is a Android APP that supports for multiple LLM providers.
+- [rikkahub/rikkahub](https://github.com/rikkahub/rikkahub) - RikkaHub is an Android APP that supports for multiple LLM providers.
 - [libre-tube/LibreTube](https://github.com/libre-tube/LibreTube) - An alternative frontend for YouTube, for Android.
 - [gkd-kit/gkd](https://github.com/gkd-kit/gkd) - 基于无障碍，高级选择器，订阅规则的自定义屏幕点击 Android 应用 | An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules
 - [ldlywt/IdeaMemo](https://github.com/ldlywt/IdeaMemo) - A Beautiful Memo App written with Jetpack Compose.        开源Android闪念笔记App。
@@ -344,7 +346,7 @@
 
 - [chatanywhere/GPT_API_free](https://github.com/chatanywhere/GPT_API_free) - Free ChatGPT&DeepSeek API Key，免费ChatGPT&DeepSeek API。免费接入DeepSeek API和GPT4 API，支持 gpt | deepseek | claude | gemini | grok 等排名靠前的常用大模型。
 - [foss42/apidash](https://github.com/foss42/apidash) - API Dash is a beautiful AI-powered open-source cross-platform (Desktop & Mobile) API Client built using Flutter which can help you easily create & customize your HTTP & GraphQL API requests, visually 
-- [vikiboss/60s](https://github.com/vikiboss/60s) - ⏰ 60s API 免费接口。每天 60 秒看世界、小红书/B站/微博/抖音/知乎热搜、油价、天气、翻译、壁纸、Epic 游戏、二维码、猫眼票房｜一系列 高质量、开源、可靠、全球 CDN 加速 的开放 API 集合，支持 Docker / Deno / Bun / Cloudflare Workers / Node.js 部署
+- [vikiboss/60s](https://github.com/vikiboss/60s) - ⏰ 60s API 免费接口。每天 60 秒看世界、小红书/B站/微博/抖音/知乎热搜、金价、油价、天气、翻译、壁纸、Epic 游戏、二维码、猫眼票房｜一系列 高质量、开源、可靠、全球 CDN 加速 的开放 API 集合，支持 Docker / Deno / Bun / Cloudflare Workers / Node.js 部署
 - [seanmorley15/AdventureLog](https://github.com/seanmorley15/AdventureLog) - Self-hostable travel tracker and trip planner.
 - [httpie/desktop](https://github.com/httpie/desktop) - 🚀 HTTPie Desktop — cross-platform API testing client for humans. Painlessly test REST, GraphQL, and HTTP APIs.
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, tr
@@ -507,7 +509,7 @@
 - [chatanywhere/GPT_API_free](https://github.com/chatanywhere/GPT_API_free) - Free ChatGPT&DeepSeek API Key，免费ChatGPT&DeepSeek API。免费接入DeepSeek API和GPT4 API，支持 gpt | deepseek | claude | gemini | grok 等排名靠前的常用大模型。
 - [drl990114/MarkFlowy](https://github.com/drl990114/MarkFlowy) - A cross-platform Markdown editor, lighter, smarter, and more focused. 一个跨平台 Markdown 编辑器，更轻快、更智能、更专注。
 - [purocean/yn](https://github.com/purocean/yn) - A highly extensible Markdown editor. Version control, AI Copilot, mind map, documents encryption, code snippet running, integrated terminal, chart embedding, HTML applets, Reveal.js, plug-in, and macr
-- [rikkahub/rikkahub](https://github.com/rikkahub/rikkahub) - RikkaHub is a Android APP that supports for multiple LLM providers.
+- [rikkahub/rikkahub](https://github.com/rikkahub/rikkahub) - RikkaHub is an Android APP that supports for multiple LLM providers.
 - [ChatGPTBox-dev/chatGPTBox](https://github.com/ChatGPTBox-dev/chatGPTBox) - Integrating ChatGPT into your browser deeply, everything you need is here
 - [vercel/ai-chatbot](https://github.com/vercel/ai-chatbot) - A full-featured, hackable Next.js AI chatbot built by Vercel
 - [ThinkInAIXYZ/deepchat](https://github.com/ThinkInAIXYZ/deepchat) - 🐬DeepChat - A smart assistant that connects powerful AI to your personal world
@@ -577,6 +579,7 @@
 
 ## cli 
 
+- [pamburus/hl](https://github.com/pamburus/hl) - A fast and powerful log viewer and processor that converts JSON logs or logfmt logs into a clear human-readable format.
 - [orf/gping](https://github.com/orf/gping) - Ping, but with a graph
 - [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
 - [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool
@@ -743,7 +746,7 @@
 
 ## deno 
 
-- [vikiboss/60s](https://github.com/vikiboss/60s) - ⏰ 60s API 免费接口。每天 60 秒看世界、小红书/B站/微博/抖音/知乎热搜、油价、天气、翻译、壁纸、Epic 游戏、二维码、猫眼票房｜一系列 高质量、开源、可靠、全球 CDN 加速 的开放 API 集合，支持 Docker / Deno / Bun / Cloudflare Workers / Node.js 部署
+- [vikiboss/60s](https://github.com/vikiboss/60s) - ⏰ 60s API 免费接口。每天 60 秒看世界、小红书/B站/微博/抖音/知乎热搜、金价、油价、天气、翻译、壁纸、Epic 游戏、二维码、猫眼票房｜一系列 高质量、开源、可靠、全球 CDN 加速 的开放 API 集合，支持 Docker / Deno / Bun / Cloudflare Workers / Node.js 部署
 - [project-gauntlet/gauntlet](https://github.com/project-gauntlet/gauntlet) - Raycast-inspired open-source cross-platform application launcher with React-based plugins
 
 ## deployment 
@@ -802,7 +805,7 @@
 
 - [gamosoft/NoteDiscovery](https://github.com/gamosoft/NoteDiscovery) - Your Self-Hosted Knowledge Base
 - [MetaCubeX/metacubexd](https://github.com/MetaCubeX/metacubexd) - Mihomo Dashboard, The Official One, XD
-- [vikiboss/60s](https://github.com/vikiboss/60s) - ⏰ 60s API 免费接口。每天 60 秒看世界、小红书/B站/微博/抖音/知乎热搜、油价、天气、翻译、壁纸、Epic 游戏、二维码、猫眼票房｜一系列 高质量、开源、可靠、全球 CDN 加速 的开放 API 集合，支持 Docker / Deno / Bun / Cloudflare Workers / Node.js 部署
+- [vikiboss/60s](https://github.com/vikiboss/60s) - ⏰ 60s API 免费接口。每天 60 秒看世界、小红书/B站/微博/抖音/知乎热搜、金价、油价、天气、翻译、壁纸、Epic 游戏、二维码、猫眼票房｜一系列 高质量、开源、可靠、全球 CDN 加速 的开放 API 集合，支持 Docker / Deno / Bun / Cloudflare Workers / Node.js 部署
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-Aware Tunneled Reverse Proxy Server with Dashboard UI
 - [seanmorley15/AdventureLog](https://github.com/seanmorley15/AdventureLog) - Self-hostable travel tracker and trip planner.
 - [yusing/godoxy](https://github.com/yusing/godoxy) - High-performance reverse proxy and container orchestrator for self-hosters
@@ -928,6 +931,7 @@
 
 ## flutter 
 
+- [waifu-project/movie](https://github.com/waifu-project/movie) - 小猫影视是一款全平台的影视播放器, 支持 VOD/JS 扩展源
 - [foss42/apidash](https://github.com/foss42/apidash) - API Dash is a beautiful AI-powered open-source cross-platform (Desktop & Mobile) API Client built using Flutter which can help you easily create & customize your HTTP & GraphQL API requests, visually 
 - [Chevey339/kelivo](https://github.com/Chevey339/kelivo) - A Flutter LLM Chat Client. Support Android & iOS & Harmony Next.
 - [DonutWare/Fladder](https://github.com/DonutWare/Fladder) - Fladder - A Simple Jellyfin frontend built on top of Flutter.
@@ -1403,10 +1407,11 @@
 
 ## js 
 
-- [zumerlab/snapdom](https://github.com/zumerlab/snapdom) - SnapDOM is a next-generation DOM capture engine that transforms HTML into almost any format all powered by a flexible plugin system
+- [zumerlab/snapdom](https://github.com/zumerlab/snapdom) - SnapDOM: DOM Capture Engine – Fast and Accurate HTML Conversion
 
 ## json 
 
+- [pamburus/hl](https://github.com/pamburus/hl) - A fast and powerful log viewer and processor that converts JSON logs or logfmt logs into a clear human-readable format.
 - [triggerdotdev/jsonhero-web](https://github.com/triggerdotdev/jsonhero-web) - JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀. Built with 💜 by the Trigger.dev team.
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
 - [SwiftyLab/MetaCodable](https://github.com/SwiftyLab/MetaCodable) - Supercharge Swift's Codable implementations with macros meta-programming.
@@ -1942,6 +1947,7 @@
 
 ## open-source 
 
+- [tonyantony300/alt-sendme](https://github.com/tonyantony300/alt-sendme) - Send files and folders anywhere in the world without storing in cloud - any size, any format, no accounts, no restrictions.
 - [gamosoft/NoteDiscovery](https://github.com/gamosoft/NoteDiscovery) - Your Self-Hosted Knowledge Base
 - [n4ze3m/page-assist](https://github.com/n4ze3m/page-assist) - Use your locally running AI models to assist you in your web browsing
 - [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from thousands of sites
@@ -2008,7 +2014,8 @@
 
 ## others 
 
-- [xxnuo/open-coreui](https://github.com/xxnuo/open-coreui) - Open CoreUI - A rewritten Open WebUI in Rust, significantly reducing memory and resource usage, requiring no dependency services, no Docker, with both a server version and a Tauri-based desktop client
+- [sweetpad-dev/sweetpad](https://github.com/sweetpad-dev/sweetpad) - Develop Swift/iOS projects using VSCode
+- [emptysuns/Hi_Hysteria](https://github.com/emptysuns/Hi_Hysteria) - Hello World！非钟国优化线路使用不佳？不想中转？hysteria2一键搞定。
 - [Lakr233/ColorfulX](https://github.com/Lakr233/ColorfulX) - ColorfulX is a high-performance library designed for creating vibrant & animated mesh gradient views.
 - [djteang/OrangeTV](https://github.com/djteang/OrangeTV) - 本项目采用 CC BY-NC-SA 协议，禁止任何商业化行为，任何衍生项目必须保留本项目地址并以相同协议开源
 - [pixelspark/sushitrain](https://github.com/pixelspark/sushitrain) - Securely synchronize files with your devices on iOS using Syncthing
@@ -2018,12 +2025,12 @@
 - [byJoey/cfnew](https://github.com/byJoey/cfnew) - 
 - [the1812/Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved) - 强大的哔哩哔哩增强脚本
 - [juewuy/ShellCrash](https://github.com/juewuy/ShellCrash) - Run sing-box/mihomo as client in shell
-- [mustbeperfect/definitive-opensource](https://github.com/mustbeperfect/definitive-opensource) - The definitive list of open source.
+- [mustbeperfect/definitive-opensource](https://github.com/mustbeperfect/definitive-opensource) - The definitive list of the best of (consumer facing) open source.
 - [domcyrus/rustnet](https://github.com/domcyrus/rustnet) - A cross-platform network monitoring terminal UI tool built with Rust.
 - [jeffernn/joyflix](https://github.com/jeffernn/joyflix) - 基于MoonTV(LunaTV)二次开发开箱即用的、跨平台的影视站（内置食用教程）
 - [eooce/Sing-box](https://github.com/eooce/Sing-box) - 既然来了，就留下你的Star吧！Serv00 | CT8 | Hostuno | VPS | 游戏机 | sing-box(reality + hy2 + vmess-argo +tuic5)四合一无交互一键安装脚本(已适配Alpine)，支持纯V6 vps，默认解锁GPT和奈飞
 - [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) - bluetooth mesh chat, IRC vibes
-- [linagora/twake-drive](https://github.com/linagora/twake-drive) - The open-source alternative to Google Drive.
+- [linagora/twake-drive-legacy](https://github.com/linagora/twake-drive-legacy) - LEGACY: The open-source alternative to Google Drive.
 - [cjpais/Handy](https://github.com/cjpais/Handy) - A free, open source, and extensible speech-to-text application that works completely offline.
 - [MetaCubeX/Yacd-meta](https://github.com/MetaCubeX/Yacd-meta) - Yet Another Clash Dashboard
 - [haishanh/yacd](https://github.com/haishanh/yacd) - Yet Another Clash Dashboard
@@ -2153,7 +2160,7 @@
 - [xiaorouji/openwrt-passwall](https://github.com/xiaorouji/openwrt-passwall) - 
 - [OwO-Network/DeepLX](https://github.com/OwO-Network/DeepLX) - Powerful Free DeepL API, No Token Required
 - [cyao2q/files](https://github.com/cyao2q/files) - TVBox开源版,盒子软件分享
-- [Celve/Peninsula](https://github.com/Celve/Peninsula) - Dynamic Peninsula for macOS, focusing on window switching, notifications, and file storage.
+- [celve/Peninsula](https://github.com/celve/Peninsula) - Dynamic Peninsula for macOS, focusing on window switching, notifications, and file storage.
 - [objective-see/LuLu](https://github.com/objective-see/LuLu) - LuLu is the free open-source macOS firewall
 - [bin64/Clash-Dash](https://github.com/bin64/Clash-Dash) - 原生 SwiftUI 开发的 OpenClash/Nikki(MihomoTProxy) 管理工具
 - [TheBoredTeam/boring.notch](https://github.com/TheBoredTeam/boring.notch) - TheBoringNotch: Not so boring notch That Rocks 🎸🎶
@@ -2307,6 +2314,7 @@
 
 ## p2p 
 
+- [tonyantony300/alt-sendme](https://github.com/tonyantony300/alt-sendme) - Send files and folders anywhere in the world without storing in cloud - any size, any format, no accounts, no restrictions.
 - [ShouChenICU/FastSend](https://github.com/ShouChenICU/FastSend) - FastSend 是一个基于 WebRTC 技术的点对点文件传输工具，支持快速的目录同步和文件传输。通过浏览器即可实现安全、高效的文件共享。
 - [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
 - [mistweaverco/bananas](https://github.com/mistweaverco/bananas) - Bananas🍌, Cross-Platform screen 🖥️ sharing 📡 made simple ⚡.
@@ -2348,6 +2356,7 @@
 
 ## privacy 
 
+- [tonyantony300/alt-sendme](https://github.com/tonyantony300/alt-sendme) - Send files and folders anywhere in the world without storing in cloud - any size, any format, no accounts, no restrictions.
 - [gamosoft/NoteDiscovery](https://github.com/gamosoft/NoteDiscovery) - Your Self-Hosted Knowledge Base
 - [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
 - [imputnet/helium](https://github.com/imputnet/helium) - Private, fast, and honest web browser
@@ -2566,6 +2575,7 @@
 
 ## rust 
 
+- [pamburus/hl](https://github.com/pamburus/hl) - A fast and powerful log viewer and processor that converts JSON logs or logfmt logs into a clear human-readable format.
 - [eza-community/eza](https://github.com/eza-community/eza) - A modern alternative to ls
 - [lsd-rs/lsd](https://github.com/lsd-rs/lsd) - The next gen ls command
 - [orf/gping](https://github.com/orf/gping) - Ping, but with a graph
@@ -3048,7 +3058,7 @@
 
 - [triggerdotdev/jsonhero-web](https://github.com/triggerdotdev/jsonhero-web) - JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀. Built with 💜 by the Trigger.dev team.
 - [drl990114/MarkFlowy](https://github.com/drl990114/MarkFlowy) - A cross-platform Markdown editor, lighter, smarter, and more focused. 一个跨平台 Markdown 编辑器，更轻快、更智能、更专注。
-- [vikiboss/60s](https://github.com/vikiboss/60s) - ⏰ 60s API 免费接口。每天 60 秒看世界、小红书/B站/微博/抖音/知乎热搜、油价、天气、翻译、壁纸、Epic 游戏、二维码、猫眼票房｜一系列 高质量、开源、可靠、全球 CDN 加速 的开放 API 集合，支持 Docker / Deno / Bun / Cloudflare Workers / Node.js 部署
+- [vikiboss/60s](https://github.com/vikiboss/60s) - ⏰ 60s API 免费接口。每天 60 秒看世界、小红书/B站/微博/抖音/知乎热搜、金价、油价、天气、翻译、壁纸、Epic 游戏、二维码、猫眼票房｜一系列 高质量、开源、可靠、全球 CDN 加速 的开放 API 集合，支持 Docker / Deno / Bun / Cloudflare Workers / Node.js 部署
 - [Milkdown/milkdown](https://github.com/Milkdown/milkdown) - 🍼 Plugin driven WYSIWYG  markdown editor framework.
 - [project-gauntlet/gauntlet](https://github.com/project-gauntlet/gauntlet) - Raycast-inspired open-source cross-platform application launcher with React-based plugins
 - [Heavrnl/nexus-terminal](https://github.com/Heavrnl/nexus-terminal) - 一款现代化的 Web SSH / RDP / VNC 客户端，提供独立桌面端，支持人机验证、2FA、界面定制、操作审计等强大功能。
