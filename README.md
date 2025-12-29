@@ -136,6 +136,7 @@
 
 ## CSS 
 
+- [datguypiko/Firefox-Mod-Blur](https://github.com/datguypiko/Firefox-Mod-Blur) - Firefox CSS Theme - For dark theme lovers / More compact / Modular / Blur
 - [Gonzalo-D-Sales/obsidian-velocity](https://github.com/Gonzalo-D-Sales/obsidian-velocity) - A radically modern theme for Obsidian.
 - [akkva/gwfox](https://github.com/akkva/gwfox) - 果味🦊皮...
 - [Akifyss/obsidian-border](https://github.com/Akifyss/obsidian-border) - A theme for obsidian.md
@@ -150,7 +151,7 @@
 
 - [G-Ray/pikatorrent](https://github.com/G-Ray/pikatorrent) - Pick a Torrent, stream and download on all your devices
 - [foss42/apidash](https://github.com/foss42/apidash) - API Dash is a beautiful AI-powered open-source cross-platform (Desktop & Mobile) API Client built using Flutter which can help you easily create & customize your HTTP & GraphQL API requests, visually 
-- [Chevey339/kelivo](https://github.com/Chevey339/kelivo) - A Flutter LLM Chat Client. Support Android & iOS & Harmony Next.
+- [Chevey339/kelivo](https://github.com/Chevey339/kelivo) - A Flutter LLM Chat Client. Support Mobile & Desktop.
 - [cogwheel0/conduit](https://github.com/cogwheel0/conduit) - Native mobile client for OpenWebUI. Chat with your self‑hosted AI.
 - [DonutWare/Fladder](https://github.com/DonutWare/Fladder) - Fladder - A Simple Jellyfin frontend built on top of Flutter.
 - [KaringX/clashmi](https://github.com/KaringX/clashmi) - Clash Mihomo for iOS/Android
@@ -247,7 +248,7 @@
 - [Tosencen/XMBOX](https://github.com/Tosencen/XMBOX) - 空盒子应用
 - [paulpacifico/shutter-encoder](https://github.com/paulpacifico/shutter-encoder) - A professional video compression tool accessible to all, mostly based on FFmpeg.
 - [jarvis2f/telegram-files](https://github.com/jarvis2f/telegram-files) - A self-hosted Telegram file downloader for continuous, stable, and unattended downloads.
-- [CodePhiliaX/Chat2DB](https://github.com/CodePhiliaX/Chat2DB) - 🔥🔥🔥AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.
+- [CodePhiliaX/Chat2DB](https://github.com/CodePhiliaX/Chat2DB) - AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.
 - [rememberber/MooTool](https://github.com/rememberber/MooTool) - Handy tool set for developers. 开发者常备小工具
 - [didi/DoKit](https://github.com/didi/DoKit) - 一款面向泛前端产品研发全生命周期的效率平台。
 - [Eanya-Tonic/CCTV_Viewer](https://github.com/Eanya-Tonic/CCTV_Viewer) - 电视浏览器，一款简易电视视频收看软件，用于方便的在机顶盒上收看网页视频
@@ -262,6 +263,7 @@
 
 ## JavaScript 
 
+- [youhunwl/TVAPP](https://github.com/youhunwl/TVAPP) - 收集全网 Android TV电视盒子应用，涵盖影视、直播、K歌、工具、游戏等类型，整理优质APK资源，支持便捷下载与自动更新。提供安全验证、分类索引与兼容性标注，助力用户打造家庭影音娱乐中心！              ✅ TVBox/影视仓等影音壳接口配置源。
 - [philc/vimium](https://github.com/philc/vimium) - The hacker's browser.
 - [ieax/renewhelper](https://github.com/ieax/renewhelper) - RenewHelper - 时序·守望是一款基于Cloudflare Workers的全栈服务生命周期提醒、管理工具。它专为管理周期性订阅、域名续费、服务器到期等场景设计。无需服务器，零成本托管，提供精美的机甲风（Mecha-style）UI 界面、强大的农历/公历计算核心、多渠道通知推送能力以及iCal日程同步。同时支持Worker和Docker方式部署。
 - [linagora/twake-drive](https://github.com/linagora/twake-drive) - Twake Drive Web App
@@ -323,7 +325,6 @@
 - [ShareDropio/sharedrop](https://github.com/ShareDropio/sharedrop) - Easy P2P file transfer powered by WebRTC - inspired by Apple AirDrop
 - [deezertidal/shadowrocket-rules](https://github.com/deezertidal/shadowrocket-rules) - 小火箭 shadowrocket 配置文件 模块 脚本 module sgmodule 图文教程 规则 分流 破解 解锁
 - [pot-app/pot-desktop](https://github.com/pot-app/pot-desktop) - 🌈一个跨平台的划词翻译和OCR软件 | A cross-platform software for text translation and recognition.
-- [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [jamiebuilds/the-super-tiny-compiler](https://github.com/jamiebuilds/the-super-tiny-compiler) - :snowman: Possibly the smallest compiler ever
 - [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) - 24 Lessons, 12 Weeks, Get Started as a Web Developer
 - [yuzutech/kroki](https://github.com/yuzutech/kroki) - Creates diagrams from textual descriptions!
@@ -399,6 +400,7 @@
 
 ## Objective-C 
 
+- [Hammerspoon/hammerspoon](https://github.com/Hammerspoon/hammerspoon) - Staggeringly powerful macOS desktop automation with Lua
 - [objective-see/LuLu](https://github.com/objective-see/LuLu) - LuLu is the free open-source macOS firewall
 - [wuba/WBBlades](https://github.com/wuba/WBBlades) - Mach-O based ObjC & Swift useless classes, useless protocols, useless resources detection, packet size analysis, point-to-point crash resolution.基于Mach-O的ObjC & Swift无用类、无用协议、无用资源检测，包大小分析，点对点崩溃解析。
 - [sfsam/Itsycal](https://github.com/sfsam/Itsycal) - Itsycal is a tiny calendar for your Mac's menu bar. http://www.mowglii.com/itsycal
@@ -409,11 +411,12 @@
 
 ## Others 
 
+- [ClashConnectRules/Self-Configuration](https://github.com/ClashConnectRules/Self-Configuration) - 
+- [666OS/ClashMac](https://github.com/666OS/ClashMac) - 基于 Clash (mihomo) 内核的轻量级 macOS 菜单栏客户端。Lightweight macOS Clash (mihomo) menu bar client.
 - [ZeroLu/awesome-nanobanana-pro](https://github.com/ZeroLu/awesome-nanobanana-pro) - 🚀 An awesome list of curated Nano Banana pro prompts and examples. Your go-to resource for mastering prompt engineering and exploring the creative potential of the Nano banana pro(Nano banana 2) AI im
 - [byJoey/cfnew](https://github.com/byJoey/cfnew) - 
 - [PicoTrex/Awesome-Nano-Banana-images](https://github.com/PicoTrex/Awesome-Nano-Banana-images) - A curated collection of fun and creative examples generated with Nano Banana & Nano Banana Pro🍌, Gemini-2.5-flash-image based model. We also release Nano-consistent-150K openly to support the communit
 - [suxuang/myIPTV](https://github.com/suxuang/myIPTV) - 【典藏版】高清直播源涵盖几乎所有卫视节目，内置完美台标加节目预告
-- [GtxFury/FlyClash-Android](https://github.com/GtxFury/FlyClash-Android) - FlyClash Android
 - [atakanaltok/awesome-useful-websites](https://github.com/atakanaltok/awesome-useful-websites) - Hand-curated list of awesome and useful websites
 - [LOWERTOP/Shadowrocket](https://github.com/LOWERTOP/Shadowrocket) - Shadowrocket 使用手册 补完计划
 - [ymyuuu/IPDB](https://github.com/ymyuuu/IPDB) - Cloudflare反代优选IP库
@@ -548,6 +551,7 @@
 
 ## Rust 
 
+- [cardisoft/cardinal](https://github.com/cardisoft/cardinal) - Fastest file searching tool for macOS
 - [lusingander/serie](https://github.com/lusingander/serie) - A rich git commit graph in your terminal, like magic 📚
 - [theryangeary/choose](https://github.com/theryangeary/choose) - A human-friendly and fast alternative to cut (and sometimes awk)
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
@@ -637,6 +641,10 @@
 
 ## Swift 
 
+- [KeyboardKit/KeyboardKit](https://github.com/KeyboardKit/KeyboardKit) - Create amazing custom iOS keyboards with Swift & SwiftUI.
+- [steipete/CodexBar](https://github.com/steipete/CodexBar) - Show usage stats for OpenAI Codex and Claude Code, without having to login.
+- [Lakr233/FlowDown](https://github.com/Lakr233/FlowDown) - https://flowdown.ai/
+- [Dhahd/ClipPocket](https://github.com/Dhahd/ClipPocket) - ClipPocket - A smart clipboard manager for macOS that saves your copy history with type detection, search, pins, and privacy-first local storage.
 - [nuance-dev/medio](https://github.com/nuance-dev/medio) - A minimal free macOS realtime diff checker app
 - [rsyncOSX/RsyncUI](https://github.com/rsyncOSX/RsyncUI) - A SwiftUI based macOS GUI for rsync.
 - [coteditor/CotEditor](https://github.com/coteditor/CotEditor) - Lightweight Plain-Text Editor for macOS
@@ -656,7 +664,7 @@
 - [ggml-org/LlamaBarn](https://github.com/ggml-org/LlamaBarn) - A cosy home for your LLMs.
 - [Lakr233/Asspp](https://github.com/Lakr233/Asspp) - The App Store for your multi-account eco system.
 - [nook-browser/Nook](https://github.com/nook-browser/Nook) - A new browser, not owned by Atlassian.
-- [bylinxx/MacCalendar](https://github.com/bylinxx/MacCalendar) - macOS菜单栏日历app，支持中国农历、节假日、系统日程等
+- [bylinxx/MacCalendar](https://github.com/bylinxx/MacCalendar) - 完全免费&开源的离线小而美 macOS 菜单栏日历app，支持中国农历、节假日、放假安排、系统日程等
 - [RoversX/LaunchNext](https://github.com/RoversX/LaunchNext) - Bring your Launchpad back in MacOS26+ ,highly customizable, powerful, free.
 - [OloApps/ReqRes](https://github.com/OloApps/ReqRes) - Modern Web Debugging Proxy
 - [fcitx-contrib/fcitx5-macos](https://github.com/fcitx-contrib/fcitx5-macos) - Fcitx5 macOS edition 小企鹅输入法 macOS https://t.me/fcitx5macos qq: 874450150
@@ -854,6 +862,9 @@
 
 ## TypeScript 
 
+- [nexmoe/VidBee](https://github.com/nexmoe/VidBee) - Download videos from almost any website worldwide
+- [popcorntime/popcorntime](https://github.com/popcorntime/popcorntime) - Popcorn Time™ puts everything in one place. Your favorite platforms, your shows, your movies-ready when you are.
+- [leinelissen/jellyfin-audio-player](https://github.com/leinelissen/jellyfin-audio-player) - 🎵 A gorgeous Jellyfin audio streaming app for iOS and Android
 - [KuekHaoYang/KVideo](https://github.com/KuekHaoYang/KVideo) - 一个基于 Next.js 16 构建的现代化视频聚合播放平台。采用独特的 "Liquid Glass" 设计语言，提供流畅的视觉体验和强大的视频搜索功能。
 - [mtvpls/MoonTVPlus](https://github.com/mtvpls/MoonTVPlus) - MoonTVPlus 是基于 MoonTV v100 二次开发的增强版影视聚合播放器。它在原版基础上新增了外部播放器支持、视频超分、弹幕系统、评论抓取等实用功能，提供更强大的观影体验。
 - [RooCodeInc/Roo-Code](https://github.com/RooCodeInc/Roo-Code) - Roo Code gives you a whole dev team of AI agents in your code editor.
@@ -901,7 +912,7 @@
 - [liriliri/aya](https://github.com/liriliri/aya) - Android ADB desktop app
 - [plait-board/drawnix](https://github.com/plait-board/drawnix) - 开源白板工具（SaaS），一体化白板，包含思维导图、流程图、自由画等。All in one open-source whiteboard tool with mind, flowchart, freehand and etc.
 - [AkiraBit/PicSharp](https://github.com/AkiraBit/PicSharp) - A modern, full-featured, high-performance, cross-platform image compression application  具有现代化UI、功能齐全、高性能、跨平台的图像压缩工具
-- [aws-samples/swift-chat](https://github.com/aws-samples/swift-chat) - A lightning-fast, cross-platform AI chat application built with React Native.
+- [aws-samples/swift-chat](https://github.com/aws-samples/swift-chat) - A lightning-fast, cross-platform AI Assistant App built with React Native.
 - [Vali-98/ChatterUI](https://github.com/Vali-98/ChatterUI) - Simple frontend for LLMs built in react-native.
 - [fmhy/edit](https://github.com/fmhy/edit) - Make changes to FMHY
 - [n4ze3m/page-assist](https://github.com/n4ze3m/page-assist) - Use your locally running AI models to assist you in your web browsing
@@ -911,7 +922,7 @@
 - [Heavrnl/nexus-terminal](https://github.com/Heavrnl/nexus-terminal) - 一款现代化的 Web SSH / RDP / VNC 客户端，提供独立桌面端，支持人机验证、2FA、界面定制、操作审计等强大功能。
 - [vercel/ai-chatbot](https://github.com/vercel/ai-chatbot) - A full-featured, hackable Next.js AI chatbot built by Vercel
 - [kyantech/Palmr](https://github.com/kyantech/Palmr) - 🌴 Palmr. is an open-source file-sharing platform focused on privacy and security. It enables users to upload, manage, and share files with features like password protection, custom links, and access c
-- [zaidmukaddam/scira](https://github.com/zaidmukaddam/scira) - Scira (Formerly MiniPerplx) is a minimalistic AI-powered search engine that helps you find information on the internet and cites it too. Powered by Vercel AI SDK! Open Source perplexity alternative.
+- [zaidmukaddam/scira](https://github.com/zaidmukaddam/scira) - Scira (Formerly MiniPerplx) is a minimalistic AI-powered search engine that helps you find information on the internet and cites it too. Powered by Vercel AI SDK!
 - [pollinations/pollinations](https://github.com/pollinations/pollinations) - Your Friendly Open-Source Gen-AI Platform
 - [ThinkInAIXYZ/deepchat](https://github.com/ThinkInAIXYZ/deepchat) - 🐬DeepChat - A smart assistant that connects powerful AI to your personal world
 - [xxnuo/MTranServer](https://github.com/xxnuo/MTranServer) - Offline translation server with low resource consumption, fast speed, and private deployment capability. 低资源占用速度快可私有部署的离线翻译服务器
@@ -1044,7 +1055,7 @@
 - [staniel359/muffon](https://github.com/staniel359/muffon) - Advanced multi-source music streaming + discovery client for desktop. Free, clean, no login, no ads.
 - [Beaver-Notes/Beaver-Notes](https://github.com/Beaver-Notes/Beaver-Notes) - Fast. Private. Local-first notes for macOS, Windows, and Linux.
 - [MetaCubeX/metacubexd](https://github.com/MetaCubeX/metacubexd) - Mihomo Dashboard, The Official One, XD
-- [Zephyruso/zashboard](https://github.com/Zephyruso/zashboard) - A Dashboard Using Clash API
+- [Zephyruso/zashboard](https://github.com/Zephyruso/zashboard) - 
 - [geek-fun/dockit](https://github.com/geek-fun/dockit) - Elasticsearch GUI client for Mac, windows and linux, Opensearch GUI client for Mac, windows and linux
 - [algerkong/AlgerMusicPlayer](https://github.com/algerkong/AlgerMusicPlayer) - 一个第三方音乐播放器、本地服务、桌面歌词、音乐下载、远程控制
 - [pulsejet/memories](https://github.com/pulsejet/memories) - Fast, modern and advanced photo management suite. Runs as a Nextcloud app.
