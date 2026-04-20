@@ -13,6 +13,7 @@
 - [CSS](#css)
 - [Clojure](#clojure)
 - [Dart](#dart)
+- [EJS](#ejs)
 - [Fluent](#fluent)
 - [Go](#go)
 - [HTML](#html)
@@ -95,6 +96,10 @@
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
 - [wanghongenpin/proxypin](https://github.com/wanghongenpin/proxypin) - Open source free capture HTTP(S) traffic  software ProxyPin, supporting full platform systems
 
+## EJS 
+
+- [Fechin/reference](https://github.com/Fechin/reference) - ⭕ Share quick reference cheat sheet for developers.
+
 ## Fluent 
 
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
@@ -162,6 +167,8 @@
 
 ## Others 
 
+- [thegdsks/awesome-modern-cli](https://github.com/thegdsks/awesome-modern-cli) - A curated list of modern alternatives to classic command-line tools. Faster, prettier, smarter replacements for the Unix utilities you use every day.
+- [markdown-viewer/skills](https://github.com/markdown-viewer/skills) - Opinionated skills for AI coding agents to create stunning diagrams and visualizations directly in Markdown. These skills extend agent capabilities across diagram generation, data visualization, and t
 - [LOWERTOP/Shadowrocket](https://github.com/LOWERTOP/Shadowrocket) - Shadowrocket 使用手册 补完计划
 - [yanue/V2rayU](https://github.com/yanue/V2rayU) - V2rayU,基于v2ray核心的mac版客户端,用于科学上网,使用swift编写,支持trojan,vmess,shadowsocks,socks5等服务协议,支持订阅, 支持二维码,剪贴板导入,手动配置,二维码分享等
 - [Loyalsoldier/clash-rules](https://github.com/Loyalsoldier/clash-rules) - 🦄️ 🎃 👻 Clash Premium 规则集(RULE-SET)，兼容 ClashX Pro、Clash for Windows 等基于 Clash Premium 内核的客户端。
@@ -189,6 +196,8 @@
 
 ## Python 
 
+- [SpaceTimee/Fusion-JetBrainsMapleMono](https://github.com/SpaceTimee/Fusion-JetBrainsMapleMono) - JetBrains Maple Mono: The free and open-source font fused with JetBrains Mono & Maple Mono
+- [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font icons for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项
 - [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) - Open-Source Frontier Voice AI
 - [facefusion/facefusion](https://github.com/facefusion/facefusion) - Industry leading face manipulation platform
 - [TomBadash/Mouser](https://github.com/TomBadash/Mouser) - A lightweight, open-source, fully local alternative to Logitech Options+ for remapping Logitech HID++ mice.
@@ -206,7 +215,6 @@
 
 ## Rust 
 
-- [k06a/macpow](https://github.com/k06a/macpow) - 💻🔋 Real-time power tree TUI for Apple Silicon
 - [cardisoft/cardinal](https://github.com/cardisoft/cardinal) - Fastest file searching tool for macOS
 - [lusingander/serie](https://github.com/lusingander/serie) - A rich git commit graph in your terminal, like magic 📚
 - [theryangeary/choose](https://github.com/theryangeary/choose) - A human-friendly and fast alternative to cut (and sometimes awk)
@@ -246,6 +254,8 @@
 
 ## Swift 
 
+- [zenangst/KeyboardCowboy](https://github.com/zenangst/KeyboardCowboy) - :keyboard: The missing keyboard shortcut utility for macOS
+- [lzhgus/Capso](https://github.com/lzhgus/Capso) - Open-source screenshot and screen recording for macOS. The free, native alternative to CleanShot X. Built with Swift 6.0 and SwiftUI.
 - [Kruszoneq/macUSB](https://github.com/Kruszoneq/macUSB) - Download. Flash. Boot. The all-in-one macOS USB creator
 - [LocNguyenHuu/Rockxy](https://github.com/LocNguyenHuu/Rockxy) - Open-source native macOS HTTP debugging proxy — intercept HTTPS, inspect APIs, mock responses, debug WebSocket & GraphQL. Community-driven. For developers, by developers.
 - [raivo-otp/ios-application](https://github.com/raivo-otp/ios-application) - A native, lightweight and secure one-time-password (OTP) client built for iOS; Raivo OTP!
@@ -253,9 +263,9 @@
 - [kyleduo/TinyPNG4Mac](https://github.com/kyleduo/TinyPNG4Mac) - Native client of TinyPNG on macOS
 - [signerlabs/ShipSwift](https://github.com/signerlabs/ShipSwift) - AI-native SwiftUI component library with full-stack recipes — connect via MCP for instant access.
 - [kellyvv/PhoneClaw](https://github.com/kellyvv/PhoneClaw) - PhoneClaw: On-device AI Agent for Phone powered by Gemma 4
-- [sw33tLie/macshot](https://github.com/sw33tLie/macshot) - Feature-packed native macOS screenshot tool: annotate, auto-redact PII, record GIFs, OCR + translate, scroll capture, beautify, and more. No Electron, no subscription.
+- [sw33tLie/macshot](https://github.com/sw33tLie/macshot) - Feature-packed native macOS screenshot & recording tool: annotate, auto-redact PII, record GIFs, OCR + translate, scroll capture, beautify, and more. No Electron, no subscription.
 - [QuentinHsu/cat-bar](https://github.com/QuentinHsu/cat-bar) - 专为 macOS 打造的 mihomo 菜单栏控制面板，聚合节点、规则、连接、日志与核心管理能力。
-- [Shpigford/clearly](https://github.com/Shpigford/clearly) - A clean, native markdown editor for macOS.
+- [Shpigford/clearly](https://github.com/Shpigford/clearly) - Markdown editor and knowledge base for Mac
 - [Shubham0812/SwiftUI-Animations](https://github.com/Shubham0812/SwiftUI-Animations) - A repository containing a variety of animations and Animated components created in SwiftUI that you can use in your own projects.
 - [lifedever/TaskTick](https://github.com/lifedever/TaskTick) - A native macOS app for managing scheduled tasks. Built with SwiftUI + SwiftData. Menu bar resident, cron expressions, script execution, and more.
 - [DebugSwift/DebugSwift](https://github.com/DebugSwift/DebugSwift) - A toolkit to make debugging iOS applications easier 🚀
@@ -271,7 +281,7 @@
 - [spacefarers/Dropp](https://github.com/spacefarers/Dropp) - 
 - [nuance-dev/medio](https://github.com/nuance-dev/medio) - A minimal free macOS realtime diff checker app
 - [rsyncOSX/RsyncUI](https://github.com/rsyncOSX/RsyncUI) - A SwiftUI based macOS GUI for rsync.
-- [coteditor/CotEditor](https://github.com/coteditor/CotEditor) - Lightweight Plain-Text Editor for macOS
+- [coteditor/CotEditor](https://github.com/coteditor/CotEditor) - Lightweight Plain Text Editor for macOS
 - [jaywcjlove/awesome-swift-macos-apps](https://github.com/jaywcjlove/awesome-swift-macos-apps) - A curated collection of open-source macOS applications built with Swift
 - [tasselx/Keyden](https://github.com/tasselx/Keyden) - Keyden is a clean and elegant macOS menu bar TOTP authenticator — securely store secrets in macOS Keychain, add accounts via QR code scanning, and copy codes with one click . Keyden 是一款简洁优雅的 macOS 菜单栏
 - [productdevbook/port-killer](https://github.com/productdevbook/port-killer) - A powerful cross-platform port management tool for developers. Monitor ports, manage Kubernetes port forwards, integrate Cloudflare Tunnels, and kill processes with one click.
@@ -316,7 +326,6 @@
 - [tw93/MiaoYan](https://github.com/tw93/MiaoYan) - ⛷ Lightweight Markdown app to help you write great sentences.
 - [exelban/stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar
 - [jacklandrin/OnlySwitch](https://github.com/jacklandrin/OnlySwitch) - ⚙️ All-in-One menu bar app, hide 💻MacBook Pro's notch, dark mode, AirPods, Shortcuts
-- [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - 📝 CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
 - [Finb/Bark](https://github.com/Finb/Bark) - Bark is an iOS App which allows you to push custom notifications to your iPhone
 - [SwifterSwift/SwifterSwift](https://github.com/SwifterSwift/SwifterSwift) - A handy collection of more than 500 native Swift extensions to boost your productivity.
 - [gee1k/uPic](https://github.com/gee1k/uPic) - 📤uPic is a native, powerful, beautiful and simple picture and file upload tool for macOS.
@@ -333,6 +342,7 @@
 
 ## TypeScript 
 
+- [remnawave/panel](https://github.com/remnawave/panel) - A powerful proxy management tool, built on top of Xray-core, with a focus on simplicity and ease of use.
 - [jamiepine/voicebox](https://github.com/jamiepine/voicebox) - The open-source voice synthesis studio
 - [webadderall/Recordly](https://github.com/webadderall/Recordly) - Create polished screen recordings for free. An open-source alternative to Screen Studio.
 - [kavinsood/yaos](https://github.com/kavinsood/yaos) - A zero-terminal, real-time sync engine powered by your own Cloudflare Worker.
