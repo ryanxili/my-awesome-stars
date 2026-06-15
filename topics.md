@@ -273,6 +273,7 @@
 
 ## clash 
 
+- [nikkinikki-org/OpenWrt-nikki](https://github.com/nikkinikki-org/OpenWrt-nikki) - Transparent Proxy with Mihomo on OpenWrt.
 - [mihomo-party-org/clash-party](https://github.com/mihomo-party-org/clash-party) - :electron: Another Mihomo GUI.
 - [Sitoi/ClashBar](https://github.com/Sitoi/ClashBar) - 基于 SwiftUI + AppKit 构建、由 mihomo 驱动的原生 macOS 菜单栏代理客户端，专注轻量、稳定与可观测。
 - [KaringX/clashmi](https://github.com/KaringX/clashmi) - Clash Mihomo for iOS/MacOS/Android/Windows/Linux
@@ -510,7 +511,7 @@
 ## homebrew 
 
 - [momenbasel/PureMac](https://github.com/momenbasel/PureMac) - Free, open-source macOS cleaner. CleanMyMac alternative with zero telemetry. Native SwiftUI, scheduled auto-cleaning, Xcode/Homebrew/system cache cleanup. MIT licensed.
-- [buresdv/Cork](https://github.com/buresdv/Cork) - A fast GUI for Homebrew written in SwiftUI
+- [buresdv/Cork](https://github.com/buresdv/Cork) - A fast GUI for Homebrew written in SwiftUI, AI-free
 
 ## html 
 
@@ -664,11 +665,11 @@
 - [coteditor/CotEditor](https://github.com/coteditor/CotEditor) - Lightweight Plain Text Editor for macOS
 - [jaywcjlove/awesome-swift-macos-apps](https://github.com/jaywcjlove/awesome-swift-macos-apps) - A curated collection of open-source macOS applications built with Swift
 - [productdevbook/port-killer](https://github.com/productdevbook/port-killer) - A powerful cross-platform port management tool for developers. Monitor ports, manage Kubernetes port forwards, integrate Cloudflare Tunnels, and kill processes with one click.
-- [OloApps/ReqRes](https://github.com/OloApps/ReqRes) - Modern Web Debugging Proxy
+- [teologov/ReqRes](https://github.com/teologov/ReqRes) - Modern Web Debugging Proxy
 - [macmade/Hot](https://github.com/macmade/Hot) - Hot is macOS menu bar application that displays the CPU speed limit due to thermal issues.
 - [kushalpandya/Petrichor](https://github.com/kushalpandya/Petrichor) - An offline macOS music player
 - [XcodesOrg/XcodesApp](https://github.com/XcodesOrg/XcodesApp) - The easiest way to install and switch between multiple versions of Xcode - with a mouse click.
-- [buresdv/Cork](https://github.com/buresdv/Cork) - A fast GUI for Homebrew written in SwiftUI
+- [buresdv/Cork](https://github.com/buresdv/Cork) - A fast GUI for Homebrew written in SwiftUI, AI-free
 - [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [jaywcjlove/web-serve](https://github.com/jaywcjlove/web-serve) - Create local network servers effortlessly with a user-friendly interface. Manage multiple servers running simultaneously in the background. Enable mod rewrite for Single Page Applications (SPA) with j
@@ -819,6 +820,7 @@
 
 ## others 
 
+- [runjuu/InputSourcePro](https://github.com/runjuu/InputSourcePro) - Switch and track your input sources with ease ✨
 - [immortalwrt/immortalwrt](https://github.com/immortalwrt/immortalwrt) - An opensource OpenWrt variant for mainland China users.
 - [realskyrin/capcap](https://github.com/realskyrin/capcap) - ⌘⌘ - A lightweight, native macOS screenshot tool that lives in your menu bar. Double-tap ⌘ Command to capture any region of your screen — instantly copied to clipboard, or annotate first with pen and 
 - [zilong7728/Collect-IPTV](https://github.com/zilong7728/Collect-IPTV) - 📡IPTV节目源收集，每4小时更新！！
@@ -844,6 +846,7 @@
 - [tasselx/Keyden](https://github.com/tasselx/Keyden) - Keyden is a clean and elegant macOS menu bar TOTP authenticator — securely store secrets in macOS Keychain, add accounts via QR code scanning, and copy codes with one click . Keyden 是一款简洁优雅的 macOS 菜单栏
 - [ieax/renewhelper](https://github.com/ieax/renewhelper) - RenewHelper - 时序·守望是一款基于Cloudflare Workers的全栈服务生命周期提醒、管理工具。它专为管理周期性订阅、域名续费、服务器到期等场景设计。无需服务器，零成本托管，提供精美的机甲风（Mecha-style）UI 界面、强大的农历/公历计算核心、多渠道通知推送能力、iCal日程同步以及账单管理功能。同时支持Worker和Docker方式部署。
 - [Decohererk/DecoTV](https://github.com/Decohererk/DecoTV) - 基于最新版LunaTV二次开发的一个开箱即用的、跨平台的影视聚合播放站。【原KatelyaTV】
+- [alireza0/s-ui](https://github.com/alireza0/s-ui) - An advanced Web Panel • Built for SagerNet/Sing-Box
 - [pdone/lx-music-source](https://github.com/pdone/lx-music-source) - 洛雪音乐源
 - [emptysuns/Hi_Hysteria](https://github.com/emptysuns/Hi_Hysteria) - Hello World！非钟国优化线路使用不佳？不想中转？hysteria2一键搞定。
 - [hafrey1/LunaTV-config](https://github.com/hafrey1/LunaTV-config) - MoonTV/LunaTV源配置，每日自动检测API状态，可在CF部署CORSAPI中转被墙API，本人提供的CORSAPI仅为测试使用，请勿滥用！
@@ -1018,6 +1021,7 @@
 
 ## self-hosted 
 
+- [shuaiplus/nodewarden](https://github.com/shuaiplus/nodewarden) - Bitwarden-compatible server running on Cloudflare Workers
 - [kavinsood/yaos](https://github.com/kavinsood/yaos) - A zero-terminal, real-time sync engine powered by your own Cloudflare Worker.
 - [wuzf/2fa](https://github.com/wuzf/2fa) - Two Factor Authentication
 - [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
@@ -1030,6 +1034,7 @@
 
 ## serverless 
 
+- [shuaiplus/nodewarden](https://github.com/shuaiplus/nodewarden) - Bitwarden-compatible server running on Cloudflare Workers
 - [wuzf/2fa](https://github.com/wuzf/2fa) - Two Factor Authentication
 
 ## shell 
@@ -1092,12 +1097,12 @@
 - [jaywcjlove/awesome-swift-macos-apps](https://github.com/jaywcjlove/awesome-swift-macos-apps) - A curated collection of open-source macOS applications built with Swift
 - [productdevbook/port-killer](https://github.com/productdevbook/port-killer) - A powerful cross-platform port management tool for developers. Monitor ports, manage Kubernetes port forwards, integrate Cloudflare Tunnels, and kill processes with one click.
 - [apple/swift-crypto](https://github.com/apple/swift-crypto) - Open-source implementation of a substantial portion of the API of Apple CryptoKit suitable for use on all Swift supported platforms.
-- [OloApps/ReqRes](https://github.com/OloApps/ReqRes) - Modern Web Debugging Proxy
+- [teologov/ReqRes](https://github.com/teologov/ReqRes) - Modern Web Debugging Proxy
 - [osaurus-ai/osaurus](https://github.com/osaurus-ai/osaurus) - Own your AI. The native macOS harness for AI agents -- any model, persistent memory, autonomous execution, cryptographic identity. Built in Swift. Fully offline. Open source.
 - [XcodesOrg/XcodesApp](https://github.com/XcodesOrg/XcodesApp) - The easiest way to install and switch between multiple versions of Xcode - with a mouse click.
 - [xtool-org/xtool](https://github.com/xtool-org/xtool) - Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.
 - [scinfu/SwiftSoup](https://github.com/scinfu/SwiftSoup) - SwiftSoup: Pure Swift HTML Parser, with best of DOM, CSS, and jquery (Supports Linux, iOS, Mac, tvOS, watchOS)
-- [buresdv/Cork](https://github.com/buresdv/Cork) - A fast GUI for Homebrew written in SwiftUI
+- [buresdv/Cork](https://github.com/buresdv/Cork) - A fast GUI for Homebrew written in SwiftUI, AI-free
 - [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store
 - [jaywcjlove/swiftui-example](https://github.com/jaywcjlove/swiftui-example) - SwiftUI 示例，技巧和技术集合，帮助我构建应用程序，解决问题以及了解SwiftUI的实际工作方式。
 - [jaywcjlove/web-serve](https://github.com/jaywcjlove/web-serve) - Create local network servers effortlessly with a user-friendly interface. Manage multiple servers running simultaneously in the background. Enable mod rewrite for Single Page Applications (SPA) with j
@@ -1148,9 +1153,9 @@
 - [rsyncOSX/RsyncUI](https://github.com/rsyncOSX/RsyncUI) - A SwiftUI based macOS GUI for rsync.
 - [jaywcjlove/awesome-swift-macos-apps](https://github.com/jaywcjlove/awesome-swift-macos-apps) - A curated collection of open-source macOS applications built with Swift
 - [productdevbook/port-killer](https://github.com/productdevbook/port-killer) - A powerful cross-platform port management tool for developers. Monitor ports, manage Kubernetes port forwards, integrate Cloudflare Tunnels, and kill processes with one click.
-- [OloApps/ReqRes](https://github.com/OloApps/ReqRes) - Modern Web Debugging Proxy
+- [teologov/ReqRes](https://github.com/teologov/ReqRes) - Modern Web Debugging Proxy
 - [XcodesOrg/XcodesApp](https://github.com/XcodesOrg/XcodesApp) - The easiest way to install and switch between multiple versions of Xcode - with a mouse click.
-- [buresdv/Cork](https://github.com/buresdv/Cork) - A fast GUI for Homebrew written in SwiftUI
+- [buresdv/Cork](https://github.com/buresdv/Cork) - A fast GUI for Homebrew written in SwiftUI, AI-free
 - [jaywcjlove/swiftui-example](https://github.com/jaywcjlove/swiftui-example) - SwiftUI 示例，技巧和技术集合，帮助我构建应用程序，解决问题以及了解SwiftUI的实际工作方式。
 - [EmergeTools/Pow](https://github.com/EmergeTools/Pow) - Delightful SwiftUI effects for your app
 - [Dimillian/IceCubesApp](https://github.com/Dimillian/IceCubesApp) - A SwiftUI Mastodon client
@@ -1189,6 +1194,7 @@
 
 ## typescript 
 
+- [shuaiplus/nodewarden](https://github.com/shuaiplus/nodewarden) - Bitwarden-compatible server running on Cloudflare Workers
 - [remnawave/panel](https://github.com/remnawave/panel) - A powerful proxy management tool, built on top of Xray-core, with a focus on simplicity and ease of use.
 - [blinkdisk/blinkdisk](https://github.com/blinkdisk/blinkdisk) - 💾 The easiest way to backup your files.
 - [codeforreal1/compressO](https://github.com/codeforreal1/compressO) - Convert any video/image into a tiny size. 100% free & open-source. Available for Mac, Windows & Linux.
@@ -1250,7 +1256,7 @@
 ## web 
 
 - [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
-- [OloApps/ReqRes](https://github.com/OloApps/ReqRes) - Modern Web Debugging Proxy
+- [teologov/ReqRes](https://github.com/teologov/ReqRes) - Modern Web Debugging Proxy
 
 ## windows 
 
