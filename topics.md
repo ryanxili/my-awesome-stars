@@ -542,7 +542,7 @@
 
 ## http 
 
-- [MHSanaei/3x-ui](https://github.com/MHSanaei/3x-ui) - Xray panel supporting multi-protocol multi-user expire day & traffic & IP limit (Vmess, Vless, Trojan, ShadowSocks, Wireguard, Hysteria, Tunnel, Mixed, HTTP, Tun)
+- [MHSanaei/3x-ui](https://github.com/MHSanaei/3x-ui) - Xray panel supporting multi-protocol multi-user expire day & traffic & IP limit (Vmess, Vless, Trojan, ShadowSocks, Wireguard, Hysteria, Tunnel, Mixed, HTTP, Tun, MTProto)
 - [mountain-loop/yaak](https://github.com/mountain-loop/yaak) - The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬
 - [jaywcjlove/web-serve](https://github.com/jaywcjlove/web-serve) - Create local network servers effortlessly with a user-friendly interface. Manage multiple servers running simultaneously in the background. Enable mod rewrite for Single Page Applications (SPA) with j
 - [reqable/reqable-app](https://github.com/reqable/reqable-app) - Reqable issue track repo
@@ -566,7 +566,7 @@
 - [BlackHatDevX/openspot-music-app](https://github.com/BlackHatDevX/openspot-music-app) - OpenSpot is a free, open-source music app that lets you stream and download high-quality tracks across all your devices. With a sleek, intuitive UI built for a seamless experience, it supports Android
 - [raivo-otp/ios-application](https://github.com/raivo-otp/ios-application) - A native, lightweight and secure one-time-password (OTP) client built for iOS; Raivo OTP!
 - [signerlabs/ShipSwift](https://github.com/signerlabs/ShipSwift) - AI-native SwiftUI component library with full-stack recipes — connect via MCP for instant access.
-- [kellyvv/PhoneClaw](https://github.com/kellyvv/PhoneClaw) - Mobile-native local AI Agent framework for phones and edge devices, with an iOS runtime, fully offline local path, on-device models, native iOS Skills, and optional Mac Gateway inference
+- [kellyvv/PhoneClaw](https://github.com/kellyvv/PhoneClaw) - PhoneClaw turns phones into local AI agent runtimes with on-device models, native mobile Skills, LiveLand, and optional Mac Gateway inference.
 - [Shubham0812/SwiftUI-Animations](https://github.com/Shubham0812/SwiftUI-Animations) - A repository containing a variety of animations and Animated components created in SwiftUI that you can use in your own projects.
 - [GetStream/stream-chat-swiftui](https://github.com/GetStream/stream-chat-swiftui) - SwiftUI Chat SDK ➜ Stream Chat 💬
 - [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for more than 6M travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the community
@@ -829,7 +829,7 @@
 
 ## open-source 
 
-- [vorssaint/vorssaint-utils](https://github.com/vorssaint/vorssaint-utils) - Free open-source macOS menu bar toolkit. Per-app volume mixer, system monitor, dock-preview, keep awake, window switcher (Alt Tab), shelf, app uninstaller, and much more.
+- [vorssaint/vorssaint-utils](https://github.com/vorssaint/vorssaint-utils) - Free and open-source macOS menu bar toolkit.
 - [realskyrin/capcap](https://github.com/realskyrin/capcap) - ⌘⌘ - A lightweight, native macOS screenshot tool that lives in your menu bar. Double-tap ⌘ Command to capture any region of your screen — instantly copied to clipboard, or annotate first with pen and 
 - [julyx10/lap](https://github.com/julyx10/lap) - An offline-first photo manager for large local libraries
 - [lzhgus/Capso](https://github.com/lzhgus/Capso) - Open-source screenshot and screen recording for macOS. The free, native alternative to CleanShot X. Built with Swift 6.0 and SwiftUI.
@@ -851,6 +851,7 @@
 
 ## others 
 
+- [mekos2772/ios-location-spoofer](https://github.com/mekos2772/ios-location-spoofer) - Standalone iOS app to spoof GPS location without jailbreak. Includes Shadowrocket/Surge/Loon/QX/Stash module.
 - [runjuu/InputSourcePro](https://github.com/runjuu/InputSourcePro) - Switch and track your input sources with ease ✨
 - [immortalwrt/immortalwrt](https://github.com/immortalwrt/immortalwrt) - An opensource OpenWrt variant for mainland China users.
 - [zilong7728/Collect-IPTV](https://github.com/zilong7728/Collect-IPTV) - 📡IPTV节目源收集，每4小时更新！！
@@ -877,7 +878,7 @@
 - [Decohererk/DecoTV](https://github.com/Decohererk/DecoTV) - 基于最新版LunaTV二次开发的一个开箱即用的、跨平台的影视聚合播放站。【原KatelyaTV】
 - [alireza0/s-ui](https://github.com/alireza0/s-ui) - An advanced Web Panel • Built for SagerNet/Sing-Box
 - [pdone/lx-music-source](https://github.com/pdone/lx-music-source) - 洛雪音乐源
-- [emptysuns/Hi_Hysteria](https://github.com/emptysuns/Hi_Hysteria) - Hello World！非钟国优化线路使用不佳？不想中转？hysteria2一键搞定。
+- [emptysuns/Hi_Hysteria](https://github.com/emptysuns/Hi_Hysteria) - Hi  Hysteria! 科学上网服务器速度不佳？一键搞定 | One-click Hysteria2 installer & manager | i18n (English/中文/فارسی/Выберите язык) | mihomo & sing-box client config | Realm P2P | WARP
 - [hafrey1/LunaTV-config](https://github.com/hafrey1/LunaTV-config) - MoonTV/LunaTV源配置，每日自动检测API状态，可在CF部署CORSAPI中转被墙API，本人提供的CORSAPI仅为测试使用，请勿滥用！
 - [MoonTechLab/LunaTV](https://github.com/MoonTechLab/LunaTV) - 本项目采用 CC BY-NC-SA 协议，禁止任何商业化行为，任何衍生项目必须保留本项目地址并以相同协议开源
 - [mustbeperfect/definitive-opensource](https://github.com/mustbeperfect/definitive-opensource) - The definitive list of the best of (consumer facing) open source.
@@ -1110,7 +1111,7 @@
 
 ## swift 
 
-- [vorssaint/vorssaint-utils](https://github.com/vorssaint/vorssaint-utils) - Free open-source macOS menu bar toolkit. Per-app volume mixer, system monitor, dock-preview, keep awake, window switcher (Alt Tab), shelf, app uninstaller, and much more.
+- [vorssaint/vorssaint-utils](https://github.com/vorssaint/vorssaint-utils) - Free and open-source macOS menu bar toolkit.
 - [realskyrin/capcap](https://github.com/realskyrin/capcap) - ⌘⌘ - A lightweight, native macOS screenshot tool that lives in your menu bar. Double-tap ⌘ Command to capture any region of your screen — instantly copied to clipboard, or annotate first with pen and 
 - [momenbasel/PureMac](https://github.com/momenbasel/PureMac) - Free, open-source macOS cleaner. CleanMyMac alternative with zero telemetry. Native SwiftUI, scheduled auto-cleaning, Xcode/Homebrew/system cache cleanup. MIT licensed.
 - [heyderekj/dinky](https://github.com/heyderekj/dinky) - Dinky makes files smaller.
@@ -1120,7 +1121,7 @@
 - [raivo-otp/ios-application](https://github.com/raivo-otp/ios-application) - A native, lightweight and secure one-time-password (OTP) client built for iOS; Raivo OTP!
 - [mrkai77/Loop](https://github.com/mrkai77/Loop) - Window management made elegant.
 - [signerlabs/ShipSwift](https://github.com/signerlabs/ShipSwift) - AI-native SwiftUI component library with full-stack recipes — connect via MCP for instant access.
-- [kellyvv/PhoneClaw](https://github.com/kellyvv/PhoneClaw) - Mobile-native local AI Agent framework for phones and edge devices, with an iOS runtime, fully offline local path, on-device models, native iOS Skills, and optional Mac Gateway inference
+- [kellyvv/PhoneClaw](https://github.com/kellyvv/PhoneClaw) - PhoneClaw turns phones into local AI agent runtimes with on-device models, native mobile Skills, LiveLand, and optional Mac Gateway inference.
 - [Shpigford/clearly](https://github.com/Shpigford/clearly) - Markdown editor for Mac, iOS and iPadOS
 - [Shubham0812/SwiftUI-Animations](https://github.com/Shubham0812/SwiftUI-Animations) - A repository containing a variety of animations and Animated components created in SwiftUI that you can use in your own projects.
 - [DebugSwift/DebugSwift](https://github.com/DebugSwift/DebugSwift) - A toolkit to make debugging iOS applications easier 🚀
