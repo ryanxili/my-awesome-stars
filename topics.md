@@ -7,6 +7,7 @@
 
 - [agent](#agent)
 - [agent-skills](#agent-skills)
+- [agents](#agents)
 - [ai](#ai)
 - [ai-agents](#ai-agents)
 - [algorithm](#algorithm)
@@ -27,6 +28,7 @@
 - [chrome-extension](#chrome-extension)
 - [clash](#clash)
 - [claude](#claude)
+- [claude-skills](#claude-skills)
 - [cli](#cli)
 - [clojure](#clojure)
 - [code-quality](#code-quality)
@@ -67,11 +69,13 @@
 - [http](#http)
 - [https](#https)
 - [image-processing](#image-processing)
+- [information-gathering](#information-gathering)
 - [instagram](#instagram)
 - [ios](#ios)
 - [java](#java)
 - [javascript](#javascript)
 - [json](#json)
+- [kali-linux](#kali-linux)
 - [kotlin](#kotlin)
 - [kubernetes](#kubernetes)
 - [linux](#linux)
@@ -99,16 +103,21 @@
 - [obsidian](#obsidian)
 - [obsidian-md](#obsidian-md)
 - [obsidian-plugin](#obsidian-plugin)
+- [open-data](#open-data)
 - [open-source](#open-source)
 - [openai](#openai)
+- [osint](#osint)
+- [osint-tools](#osint-tools)
 - [others](#others)
 - [p2p](#p2p)
+- [penetration-testing](#penetration-testing)
 - [php](#php)
 - [postgresql](#postgresql)
 - [powershell](#powershell)
 - [privacy](#privacy)
 - [productivity](#productivity)
 - [programming](#programming)
+- [prompt-engineering](#prompt-engineering)
 - [pwa](#pwa)
 - [python](#python)
 - [qt](#qt)
@@ -119,6 +128,7 @@
 - [ruby](#ruby)
 - [rust](#rust)
 - [security](#security)
+- [security-tools](#security-tools)
 - [self-hosted](#self-hosted)
 - [server](#server)
 - [serverless](#serverless)
@@ -159,12 +169,18 @@
 
 ## agent-skills 
 
+- [JimLiu/baoyu-skills](https://github.com/JimLiu/baoyu-skills) - 
 - [ThinkInAIXYZ/deepchat](https://github.com/ThinkInAIXYZ/deepchat) - 🐬DeepChat - A smart assistant that connects powerful AI to your personal world
+
+## agents 
+
+- [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) - Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中
+- [openchamber/openchamber](https://github.com/openchamber/openchamber) - Agentic Development Environment based on OpenCode AI agent
 
 ## ai 
 
 - [t8y2/dbx](https://github.com/t8y2/dbx) - 20 MB lightweight cross-platform database client for 90+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docke
-- [openchamber/openchamber](https://github.com/openchamber/openchamber) - Desktop and web interface for OpenCode AI agent
+- [openchamber/openchamber](https://github.com/openchamber/openchamber) - Agentic Development Environment based on OpenCode AI agent
 - [sjjian/openhare](https://github.com/sjjian/openhare) - AI-powered desktop SQL client. Cross-platform. Built with Flutter.
 - [jamiepine/voicebox](https://github.com/jamiepine/voicebox) - The open-source AI voice studio. Clone, dictate, create.
 - [RockxyApp/Rockxy](https://github.com/RockxyApp/Rockxy) - Open-source native macOS HTTP debugging proxy — intercept HTTPS, inspect APIs, mock responses, debug WebSocket & GraphQL. Community-driven. For developers, by developers.
@@ -267,6 +283,7 @@
 
 ## chatgpt 
 
+- [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) - Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中
 - [Fechin/reference](https://github.com/Fechin/reference) - ⭕ Share quick reference cheat sheet for developers.
 - [ThinkInAIXYZ/deepchat](https://github.com/ThinkInAIXYZ/deepchat) - 🐬DeepChat - A smart assistant that connects powerful AI to your personal world
 - [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
@@ -302,6 +319,10 @@
 
 - [ThinkInAIXYZ/deepchat](https://github.com/ThinkInAIXYZ/deepchat) - 🐬DeepChat - A smart assistant that connects powerful AI to your personal world
 
+## claude-skills 
+
+- [JimLiu/baoyu-skills](https://github.com/JimLiu/baoyu-skills) - 
+
 ## cli 
 
 - [t8y2/dbx](https://github.com/t8y2/dbx) - 20 MB lightweight cross-platform database client for 90+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docke
@@ -314,7 +335,7 @@
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [pamburus/hl](https://github.com/pamburus/hl) - A fast and powerful log viewer and processor that converts JSON logs or logfmt logs into a clear human-readable format.
 - [orf/gping](https://github.com/orf/gping) - Ping, but with a graph
-- [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store
+- [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows searching and downloading app packages (known as ipa files) for iOS, iPadOS, tvOS, and visionOS from the App Store.
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 
@@ -334,7 +355,7 @@
 - [eza-community/eza](https://github.com/eza-community/eza) - A modern alternative to ls
 - [orf/gping](https://github.com/orf/gping) - Ping, but with a graph
 - [Canop/broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees
-- [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store
+- [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows searching and downloading app packages (known as ipa files) for iOS, iPadOS, tvOS, and visionOS from the App Store.
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 
@@ -361,6 +382,7 @@
 
 ## cybersecurity 
 
+- [rawfilejson/awesome-osint-arsenal](https://github.com/rawfilejson/awesome-osint-arsenal) - OSINT & recon toolkit // 100+ tools, one-command installer, SOCMINT, GEOINT, network recon, dark web, forensics & more.
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
 
 ## dart 
@@ -410,6 +432,7 @@
 
 ## dsh-plugin 
 
+- [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) - Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中
 - [Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo) - :rocket: The Ultimate Image Uploader for Efficient Creators. Supports Obsidian, Typora, VS Code etc. and 60+ image hosting services  (S3, GitHub, Cloudflare R2, Imgur, Aliyun OSS...). Paste, upload, d
 
 ## education 
@@ -482,7 +505,7 @@
 ## go 
 
 - [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.
-- [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store
+- [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows searching and downloading app packages (known as ipa files) for iOS, iPadOS, tvOS, and visionOS from the App Store.
 - [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
 
 ## golang 
@@ -490,7 +513,7 @@
 - [Fechin/reference](https://github.com/Fechin/reference) - ⭕ Share quick reference cheat sheet for developers.
 - [HyNetworks/hysteria](https://github.com/HyNetworks/hysteria) - Hysteria is powerful, lightning-fast, and censorship-resistant open-source proxy software
 - [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.
-- [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store
+- [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows searching and downloading app packages (known as ipa files) for iOS, iPadOS, tvOS, and visionOS from the App Store.
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App 🌈💎✨
 - [Tencent/MMKV](https://github.com/Tencent/MMKV) - An efficient, small mobile key-value storage framework developed by WeChat. Works on Android, iOS, macOS, Windows, POSIX, and OHOS.
 
@@ -519,6 +542,7 @@
 
 ## hacking 
 
+- [rawfilejson/awesome-osint-arsenal](https://github.com/rawfilejson/awesome-osint-arsenal) - OSINT & recon toolkit // 100+ tools, one-command installer, SOCMINT, GEOINT, network recon, dark web, forensics & more.
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
 
 ## hacktoberfest 
@@ -554,7 +578,7 @@
 
 ## http 
 
-- [MHSanaei/3x-ui](https://github.com/MHSanaei/3x-ui) - Xray panel supporting multi-protocol multi-user expire day & traffic & IP limit (Vmess, Vless, Trojan, ShadowSocks, Wireguard, Hysteria, Tunnel, Mixed, HTTP, Tun, MTProto)
+- [MHSanaei/3x-ui](https://github.com/MHSanaei/3x-ui) - Supporting multi-protocol multi-user(Vmess, Vless, Trojan, ShadowSocks, Wireguard, Hysteria, Tunnel, Mixed, HTTP, Tun, MTProto، AmneziaWG)
 - [mountain-loop/yaak](https://github.com/mountain-loop/yaak) - The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬
 - [jaywcjlove/web-serve](https://github.com/jaywcjlove/web-serve) - Create local network servers effortlessly with a user-friendly interface. Manage multiple servers running simultaneously in the background. Enable mod rewrite for Single Page Applications (SPA) with j
 - [reqable/reqable-app](https://github.com/reqable/reqable-app) - Reqable issue track repo
@@ -570,6 +594,10 @@
 - [codeforreal1/compressO](https://github.com/codeforreal1/compressO) - Convert any video/image into a tiny size. 100% free & open-source. Available for Mac, Windows & Linux.
 - [CyberTimon/RapidRAW](https://github.com/CyberTimon/RapidRAW) - A beautiful, non-destructive, and GPU-accelerated RAW image editor built with performance in mind.
 
+## information-gathering 
+
+- [rawfilejson/awesome-osint-arsenal](https://github.com/rawfilejson/awesome-osint-arsenal) - OSINT & recon toolkit // 100+ tools, one-command installer, SOCMINT, GEOINT, network recon, dark web, forensics & more.
+
 ## instagram 
 
 - [FluidGroup/Brightroom](https://github.com/FluidGroup/Brightroom) - 📷 A composable image editor using Core Image and Metal.
@@ -584,7 +612,7 @@
 - [GetStream/stream-chat-swiftui](https://github.com/GetStream/stream-chat-swiftui) - SwiftUI Chat SDK ➜ Stream Chat 💬
 - [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for more than 6M travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the community
 - [xtool-org/xtool](https://github.com/xtool-org/xtool) - Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.
-- [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store
+- [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows searching and downloading app packages (known as ipa files) for iOS, iPadOS, tvOS, and visionOS from the App Store.
 - [GMOogway/shadowrocket-rules](https://github.com/GMOogway/shadowrocket-rules) - 小火箭规则🚀，小火箭模块，小火箭配置，shadowrocket规则，shadowrocket rules，最全面的直连（DIRECT）、代理（PROXY）、屏蔽（REJECT）规则，自动构建，每日更新
 - [jaywcjlove/swiftui-example](https://github.com/jaywcjlove/swiftui-example) - SwiftUI 示例，技巧和技术集合，帮助我构建应用程序，解决问题以及了解SwiftUI的实际工作方式。
 - [sindresorhus/Defaults](https://github.com/sindresorhus/Defaults) - 💾 Swifty and modern UserDefaults
@@ -623,6 +651,10 @@
 
 - [pamburus/hl](https://github.com/pamburus/hl) - A fast and powerful log viewer and processor that converts JSON logs or logfmt logs into a clear human-readable format.
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
+
+## kali-linux 
+
+- [rawfilejson/awesome-osint-arsenal](https://github.com/rawfilejson/awesome-osint-arsenal) - OSINT & recon toolkit // 100+ tools, one-command installer, SOCMINT, GEOINT, network recon, dark web, forensics & more.
 
 ## kotlin 
 
@@ -675,6 +707,9 @@
 
 ## macos 
 
+- [EvilIrving/light-stats](https://github.com/EvilIrving/light-stats) - Native macOS menu bar system monitor. Live CPU/GPU/memory-pressure signals, a 0-100 health score, no telemetry.
+- [RockxyApp/Tracexy](https://github.com/RockxyApp/Tracexy) - Native, local-first network intelligence for macOS—capture live traffic, inspect PCAP/PCAPNG files, and investigate sessions, protocols, processes, flows, and packet evidence.
+- [byrencheema/airstats](https://github.com/byrencheema/airstats) - A menu bar system monitor for macOS. CPU, memory, GPU, network, disk, battery and thermals at 0.046% CPU.
 - [pluk-inc/markdown-preview](https://github.com/pluk-inc/markdown-preview) - A simple Markdown viewer for reading .md files
 - [jianyintang/find-disk-killer](https://github.com/jianyintang/find-disk-killer) - See what keeps using your disk.
 - [oomol-lab/LockIME](https://github.com/oomol-lab/LockIME) - A native macOS menu-bar app that keeps your keyboard input source locked — global, per-app, and per-URL.
@@ -714,7 +749,7 @@
 - [XcodesOrg/XcodesApp](https://github.com/XcodesOrg/XcodesApp) - The easiest way to install and switch between multiple versions of Xcode - with a mouse click.
 - [yanue/V2rayU](https://github.com/yanue/V2rayU) - V2rayU,基于v2ray核心的mac版客户端,用于科学上网,使用swift编写,支持trojan,vmess,shadowsocks,socks5等服务协议,支持订阅, 支持二维码,剪贴板导入,手动配置,二维码分享等
 - [buresdv/Cork](https://github.com/buresdv/Cork) - A fast GUI for Homebrew written in SwiftUI, AI-free
-- [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store
+- [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows searching and downloading app packages (known as ipa files) for iOS, iPadOS, tvOS, and visionOS from the App Store.
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [jaywcjlove/web-serve](https://github.com/jaywcjlove/web-serve) - Create local network servers effortlessly with a user-friendly interface. Manage multiple servers running simultaneously in the background. Enable mod rewrite for Single Page Applications (SPA) with j
 - [ivoronin/TomatoBar](https://github.com/ivoronin/TomatoBar) - 🍅 World's neatest Pomodoro timer for macOS menu bar
@@ -782,6 +817,7 @@
 
 ## monitoring 
 
+- [EvilIrving/light-stats](https://github.com/EvilIrving/light-stats) - Native macOS menu bar system monitor. Live CPU/GPU/memory-pressure signals, a 0-100 health score, no telemetry.
 - [komari-monitor/komari](https://github.com/komari-monitor/komari) - A simple server monitor tool.
 - [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.
 - [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, macOS and Windows operating systems.
@@ -850,10 +886,14 @@
 
 - [kavinsood/yaos](https://github.com/kavinsood/yaos) - A zero-terminal, real-time sync engine powered by your own Cloudflare Worker.
 
+## open-data 
+
+- [rawfilejson/awesome-osint-arsenal](https://github.com/rawfilejson/awesome-osint-arsenal) - OSINT & recon toolkit // 100+ tools, one-command installer, SOCMINT, GEOINT, network recon, dark web, forensics & more.
+
 ## open-source 
 
 - [caezium/burrow](https://github.com/caezium/burrow) - 🐹 Cleanup, app management, maintenance, disk analysis, and live status in one free, open-source, native Mac app + extensive support for AI agents. Coming to Windows
-- [vorssaint/vorssaint-utils](https://github.com/vorssaint/vorssaint-utils) - Free and open-source macOS menu bar toolkit.
+- [vorssaintapp/vorssaint-utils](https://github.com/vorssaintapp/vorssaint-utils) - Free and open-source macOS menu bar toolkit.
 - [realskyrin/capcap](https://github.com/realskyrin/capcap) - ⌘⌘ - A lightweight, native macOS screenshot tool that lives in your menu bar. Double-tap ⌘ Command to capture any region of your screen — instantly copied to clipboard, or annotate first with pen and 
 - [julyx10/lap](https://github.com/julyx10/lap) - An offline-first photo manager for large local libraries
 - [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) - Create polished demo videos without editing skills. Mac/Windows/Linux
@@ -872,8 +912,20 @@
 - [ggml-org/whisper.cpp](https://github.com/ggml-org/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
 - [tisfeng/Easydict](https://github.com/tisfeng/Easydict) - 一个简洁优雅的词典翻译 macOS App。开箱即用，支持离线 OCR 识别，支持有道词典，🍎 苹果系统词典，🍎 苹果系统翻译，OpenAI，Gemini，DeepL，Google，Bing，腾讯，百度，阿里，小牛，彩云和火山翻译。A concise and elegant Dictionary and Translator macOS App for looking up words and t
 
+## osint 
+
+- [rawfilejson/awesome-osint-arsenal](https://github.com/rawfilejson/awesome-osint-arsenal) - OSINT & recon toolkit // 100+ tools, one-command installer, SOCMINT, GEOINT, network recon, dark web, forensics & more.
+
+## osint-tools 
+
+- [rawfilejson/awesome-osint-arsenal](https://github.com/rawfilejson/awesome-osint-arsenal) - OSINT & recon toolkit // 100+ tools, one-command installer, SOCMINT, GEOINT, network recon, dark web, forensics & more.
+
 ## others 
 
+- [megootronic/Blink](https://github.com/megootronic/Blink) - A little robot that lives in your menu bar and keeps an eye on your running dev servers and iOS simulators.
+- [MetaCubeX/Yacd-meta](https://github.com/MetaCubeX/Yacd-meta) - Yet Another Clash Dashboard
+- [Zephyruso/zashboard](https://github.com/Zephyruso/zashboard) - 
+- [MetaCubeX/meta-rules-dat](https://github.com/MetaCubeX/meta-rules-dat) - rules-dat for mihomo
 - [AnmolSaini16/mapcn](https://github.com/AnmolSaini16/mapcn) - Beautiful map components. 100% Free, Zero config, one command setup.
 - [khr898/ntfsmac](https://github.com/khr898/ntfsmac) - NTFS read/write on Apple Silicon macOS — no kernel extension, no SIP modification.
 - [kooker/FreeSubsCheck](https://github.com/kooker/FreeSubsCheck) - 免费节点、免费订阅 FreeSubs FreeNodes 利用 subs-check 自动从节点池爬取分享，支持 v2ray clash 等各种代理软件，部分需自行转换。
@@ -957,6 +1009,10 @@
 
 - [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
 
+## penetration-testing 
+
+- [rawfilejson/awesome-osint-arsenal](https://github.com/rawfilejson/awesome-osint-arsenal) - OSINT & recon toolkit // 100+ tools, one-command installer, SOCMINT, GEOINT, network recon, dark web, forensics & more.
+
 ## php 
 
 - [privacy-protection-tools/anti-AD](https://github.com/privacy-protection-tools/anti-AD) - 致力于成为中文区命中率最高的广告过滤列表，实现精确的广告屏蔽和隐私保护。anti-AD 现已支持 AdGuardHome，dnsmasq，Surge，Pi-Hole，Clash, mihomo，smartdns，sing-box 等网络组件。完全兼容常见的广告过滤工具所支持的各种广告过滤列表格式
@@ -998,6 +1054,10 @@
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现
 
+## prompt-engineering 
+
+- [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) - Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中
+
 ## pwa 
 
 - [wuzf/2fa](https://github.com/wuzf/2fa) - Two Factor Authentication
@@ -1036,7 +1096,7 @@
 
 ## reverse-engineering 
 
-- [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store
+- [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows searching and downloading app packages (known as ipa files) for iOS, iPadOS, tvOS, and visionOS from the App Store.
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
 
 ## ruby 
@@ -1069,10 +1129,14 @@
 
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your network traffic 🕵️‍♂️
 - [wuzf/2fa](https://github.com/wuzf/2fa) - Two Factor Authentication
-- [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store
+- [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows searching and downloading app packages (known as ipa files) for iOS, iPadOS, tvOS, and visionOS from the App Store.
 - [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “KeePass Password Safe”.
 - [cryptomator/cryptomator](https://github.com/cryptomator/cryptomator) - Cryptomator for Windows, macOS, and Linux: Secure client-side encryption for your cloud storage, ensuring privacy and control over your data.
 - [lissy93/awesome-privacy](https://github.com/lissy93/awesome-privacy) - 🦄  A curated list of privacy & security-focused software and services
+
+## security-tools 
+
+- [rawfilejson/awesome-osint-arsenal](https://github.com/rawfilejson/awesome-osint-arsenal) - OSINT & recon toolkit // 100+ tools, one-command installer, SOCMINT, GEOINT, network recon, dark web, forensics & more.
 
 ## self-hosted 
 
@@ -1132,10 +1196,13 @@
 
 ## swift 
 
+- [EvilIrving/light-stats](https://github.com/EvilIrving/light-stats) - Native macOS menu bar system monitor. Live CPU/GPU/memory-pressure signals, a 0-100 health score, no telemetry.
+- [RockxyApp/Tracexy](https://github.com/RockxyApp/Tracexy) - Native, local-first network intelligence for macOS—capture live traffic, inspect PCAP/PCAPNG files, and investigate sessions, protocols, processes, flows, and packet evidence.
+- [byrencheema/airstats](https://github.com/byrencheema/airstats) - A menu bar system monitor for macOS. CPU, memory, GPU, network, disk, battery and thermals at 0.046% CPU.
 - [jianyintang/find-disk-killer](https://github.com/jianyintang/find-disk-killer) - See what keeps using your disk.
 - [oomol-lab/LockIME](https://github.com/oomol-lab/LockIME) - A native macOS menu-bar app that keeps your keyboard input source locked — global, per-app, and per-URL.
 - [caezium/burrow](https://github.com/caezium/burrow) - 🐹 Cleanup, app management, maintenance, disk analysis, and live status in one free, open-source, native Mac app + extensive support for AI agents. Coming to Windows
-- [vorssaint/vorssaint-utils](https://github.com/vorssaint/vorssaint-utils) - Free and open-source macOS menu bar toolkit.
+- [vorssaintapp/vorssaint-utils](https://github.com/vorssaintapp/vorssaint-utils) - Free and open-source macOS menu bar toolkit.
 - [realskyrin/capcap](https://github.com/realskyrin/capcap) - ⌘⌘ - A lightweight, native macOS screenshot tool that lives in your menu bar. Double-tap ⌘ Command to capture any region of your screen — instantly copied to clipboard, or annotate first with pen and 
 - [momenbasel/PureMac](https://github.com/momenbasel/PureMac) - Free, open-source macOS cleaner. CleanMyMac alternative with zero telemetry. Native SwiftUI, scheduled auto-cleaning, Xcode/Homebrew/system cache cleanup. MIT licensed.
 - [heyderekj/dinky](https://github.com/heyderekj/dinky) - Dinky makes files smaller.
@@ -1165,7 +1232,7 @@
 - [xtool-org/xtool](https://github.com/xtool-org/xtool) - Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.
 - [scinfu/SwiftSoup](https://github.com/scinfu/SwiftSoup) - SwiftSoup: Pure Swift HTML Parser, with best of DOM, CSS, and jquery (Supports Linux, iOS, Mac, tvOS, watchOS)
 - [buresdv/Cork](https://github.com/buresdv/Cork) - A fast GUI for Homebrew written in SwiftUI, AI-free
-- [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store
+- [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows searching and downloading app packages (known as ipa files) for iOS, iPadOS, tvOS, and visionOS from the App Store.
 - [jaywcjlove/swiftui-example](https://github.com/jaywcjlove/swiftui-example) - SwiftUI 示例，技巧和技术集合，帮助我构建应用程序，解决问题以及了解SwiftUI的实际工作方式。
 - [jaywcjlove/web-serve](https://github.com/jaywcjlove/web-serve) - Create local network servers effortlessly with a user-friendly interface. Manage multiple servers running simultaneously in the background. Enable mod rewrite for Single Page Applications (SPA) with j
 - [ivoronin/TomatoBar](https://github.com/ivoronin/TomatoBar) - 🍅 World's neatest Pomodoro timer for macOS menu bar
@@ -1196,6 +1263,9 @@
 
 ## swiftui 
 
+- [EvilIrving/light-stats](https://github.com/EvilIrving/light-stats) - Native macOS menu bar system monitor. Live CPU/GPU/memory-pressure signals, a 0-100 health score, no telemetry.
+- [RockxyApp/Tracexy](https://github.com/RockxyApp/Tracexy) - Native, local-first network intelligence for macOS—capture live traffic, inspect PCAP/PCAPNG files, and investigate sessions, protocols, processes, flows, and packet evidence.
+- [byrencheema/airstats](https://github.com/byrencheema/airstats) - A menu bar system monitor for macOS. CPU, memory, GPU, network, disk, battery and thermals at 0.046% CPU.
 - [jianyintang/find-disk-killer](https://github.com/jianyintang/find-disk-killer) - See what keeps using your disk.
 - [oomol-lab/LockIME](https://github.com/oomol-lab/LockIME) - A native macOS menu-bar app that keeps your keyboard input source locked — global, per-app, and per-URL.
 - [caezium/burrow](https://github.com/caezium/burrow) - 🐹 Cleanup, app management, maintenance, disk analysis, and live status in one free, open-source, native Mac app + extensive support for AI agents. Coming to Windows
