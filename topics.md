@@ -307,6 +307,7 @@
 
 ## chrome-extension 
 
+- [wuzf/2fa](https://github.com/wuzf/2fa) - Two Factor Authentication
 - [hanydd/BilibiliSponsorBlock](https://github.com/hanydd/BilibiliSponsorBlock) - 一款跳过小电视视频中恰饭片段的浏览器插件，移植自 SponsorBlock。A browser extension to skip sponsored segments in videos, ported from the SponsorBlock
 - [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
 - [iorate/ublacklist](https://github.com/iorate/ublacklist) - Blocks specific sites from appearing in Google search results
@@ -394,6 +395,7 @@
 ## cybersecurity 
 
 - [rawfilejson/awesome-osint-arsenal](https://github.com/rawfilejson/awesome-osint-arsenal) - OSINT & recon toolkit // 100+ tools, one-command installer, SOCMINT, GEOINT, network recon, dark web, forensics & more.
+- [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your network traffic 🕵️‍♂️
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
 
 ## dart 
@@ -565,7 +567,6 @@
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [eza-community/eza](https://github.com/eza-community/eza) - A modern alternative to ls
 - [lsd-rs/lsd](https://github.com/lsd-rs/lsd) - The next gen ls command
-- [foss42/apidash](https://github.com/foss42/apidash) - API Dash is a beautiful AI-powered open-source cross-platform (Desktop & Mobile) API Client built using Flutter which can help you easily create & customize your HTTP & GraphQL API requests, visually 
 - [XcodesOrg/XcodesApp](https://github.com/XcodesOrg/XcodesApp) - The easiest way to install and switch between multiple versions of Xcode - with a mouse click.
 - [FluidGroup/Brightroom](https://github.com/FluidGroup/Brightroom) - 📷 A composable image editor using Core Image and Metal.
 - [Moya/Moya](https://github.com/Moya/Moya) - Network abstraction layer written in Swift.
@@ -732,7 +733,7 @@
 - [YTwsy/OpenSurge-for-Mac](https://github.com/YTwsy/OpenSurge-for-Mac) - Surge-style whole-home gateway and control plane for macOS with IPv4/IPv6 support— mihomo TUN, dnsmasq-powered DHCP/DNS, per-device routing, and an agent-friendly validation workspace.
 - [caezium/burrow](https://github.com/caezium/burrow) - 🐹 Cleanup, app management, maintenance, disk analysis, and live status in one free, open-source, native Mac app + extensive support for AI agents.
 - [Ebullioscopic/Atoll](https://github.com/Ebullioscopic/Atoll) - Dynamic Island for macOS
-- [ggbond268/MacTools](https://github.com/ggbond268/MacTools) - A free and open-source collection of native macOS menu bar tools.
+- [mactools-app/MacTools](https://github.com/mactools-app/MacTools) - A free and open-source collection of native macOS menu bar tools.
 - [realskyrin/capcap](https://github.com/realskyrin/capcap) - ⌘⌘ - A lightweight, native macOS screenshot tool that lives in your menu bar. Double-tap ⌘ Command to capture any region of your screen — instantly copied to clipboard, or annotate first with pen and 
 - [momenbasel/PureMac](https://github.com/momenbasel/PureMac) - Free, open-source macOS cleaner. CleanMyMac alternative with zero telemetry. Native SwiftUI, scheduled auto-cleaning, Xcode/Homebrew/system cache cleanup. MIT licensed.
 - [heyderekj/dinky](https://github.com/heyderekj/dinky) - Dinky makes files smaller.
@@ -1299,7 +1300,7 @@
 - [jianyintang/find-disk-killer](https://github.com/jianyintang/find-disk-killer) - See what keeps using your disk.
 - [oomol-lab/LockIME](https://github.com/oomol-lab/LockIME) - A native macOS menu-bar app that keeps your keyboard input source locked — global, per-app, and per-URL.
 - [caezium/burrow](https://github.com/caezium/burrow) - 🐹 Cleanup, app management, maintenance, disk analysis, and live status in one free, open-source, native Mac app + extensive support for AI agents.
-- [ggbond268/MacTools](https://github.com/ggbond268/MacTools) - A free and open-source collection of native macOS menu bar tools.
+- [mactools-app/MacTools](https://github.com/mactools-app/MacTools) - A free and open-source collection of native macOS menu bar tools.
 - [momenbasel/PureMac](https://github.com/momenbasel/PureMac) - Free, open-source macOS cleaner. CleanMyMac alternative with zero telemetry. Native SwiftUI, scheduled auto-cleaning, Xcode/Homebrew/system cache cleanup. MIT licensed.
 - [duongductrong/Snapzy](https://github.com/duongductrong/Snapzy) - An open-source native macOS screenshot and screen recording app. A CleanShot X alternative.
 - [heyderekj/dinky](https://github.com/heyderekj/dinky) - Dinky makes files smaller.
