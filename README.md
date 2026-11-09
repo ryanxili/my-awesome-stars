@@ -61,7 +61,7 @@
 
 - [arcships/light-ocr](https://github.com/arcships/light-ocr) - Fast, offline OCR for Node.js & C++. PP-OCRv6 with Core ML / WebGPU hardware acceleration — recognize text in images with confidence scores & coordinates. npm: @arcships/light-ocr
 - [google-ai-edge/LiteRT-LM](https://github.com/google-ai-edge/LiteRT-LM) - LiteRT-LM is Google's production-ready, high-performance, open-source inference framework for deploying Large Language Models on edge devices.
-- [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for more than 6M travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the community
+- [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for more than 12M travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the communit
 - [imputnet/helium](https://github.com/imputnet/helium) - Private, fast, and honest web browser
 - [c0re100/qBittorrent-Enhanced-Edition](https://github.com/c0re100/qBittorrent-Enhanced-Edition) - [Unofficial] qBittorrent Enhanced, based on qBittorrent
 - [ml-explore/mlx-swift](https://github.com/ml-explore/mlx-swift) - Swift API for MLX
@@ -230,6 +230,7 @@
 - [ZhiXuanWang/cf-speed-dns](https://github.com/ZhiXuanWang/cf-speed-dns) - CF优选IP工具。动态获取Cloudflare优选IP，CloudflareSpeedTest测速。
 - [serengil/deepface](https://github.com/serengil/deepface) - A Lightweight Face Recognition and Facial Attribute Analysis (Age, Gender, Emotion and Race) Library for Python
 - [217heidai/adblockfilters](https://github.com/217heidai/adblockfilters) - 去广告合并规则，每8个小时更新一次。
+- [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现
 
 ## Ruby 
 
@@ -251,6 +252,7 @@
 - [lsd-rs/lsd](https://github.com/lsd-rs/lsd) - The next gen ls command
 - [orf/gping](https://github.com/orf/gping) - Ping, but with a graph
 - [Canop/broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees
+- [mountain-loop/yaak](https://github.com/mountain-loop/yaak) - The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬
 - [hanshuaikang/NBping](https://github.com/hanshuaikang/NBping) - 🏎  Nping mean NB Ping, A Ping Tool in Rust with Real-Time Data and Visualizations
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
@@ -266,7 +268,7 @@
 ## Shell 
 
 - [mack-a/v2ray-agent](https://github.com/mack-a/v2ray-agent) - Xray、Tuic、hysteria2、sing-box 八合一一键脚本
-- [233boy/sing-box](https://github.com/233boy/sing-box) - 最好用的 sing-box 一键安装脚本 & 管理脚本，自动创建 REALITY 协议；支持 TUIC，Trojan，Hysteria2 等所有常见的协议
+- [233boy/sing-box](https://github.com/233boy/sing-box) - 最好用的 sing-box 一键安装脚本 & 管理脚本，自动创建 Hysteria2 协议；支持 TUIC，Trojan，REALITY 等所有常见的协议
 - [MetaCubeX/meta-rules-dat](https://github.com/MetaCubeX/meta-rules-dat) - rules-dat for mihomo
 - [rawfilejson/awesome-osint-arsenal](https://github.com/rawfilejson/awesome-osint-arsenal) - OSINT & recon toolkit // 100+ tools, one-command installer, SOCMINT, GEOINT, network recon, dark web, forensics & more.
 - [yonggekkk/argosbx](https://github.com/yonggekkk/argosbx) - 小白自建代理神器！ArgoSBX一键无交互小钢炮脚本💣：Sing-box、Xray、Argo三内核自动搭配；支持VPS、Docker、容器多环境部署；套CDN的5大方案+套WARP的15种组合；已支持协议：Naiveproxy、AnyTLS、Any-reality、Vless-xhttp-reality-vision-enc、Vless-tcp-reality-vision、Vless-xhttp
@@ -299,7 +301,7 @@
 - [pluk-inc/markdown-preview](https://github.com/pluk-inc/markdown-preview) - A simple Markdown viewer for reading .md files
 - [jianyintang/find-disk-killer](https://github.com/jianyintang/find-disk-killer) - See what keeps using your disk.
 - [oomol-lab/LockIME](https://github.com/oomol-lab/LockIME) - A native macOS menu-bar app that keeps your keyboard input source locked — global, per-app, and per-URL.
-- [abue-ammar/tinycast](https://github.com/abue-ammar/tinycast) - Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history.
+- [abue-ammar/tinycast](https://github.com/abue-ammar/tinycast) - A native macOS launcher for everyday productivity. Lightweight and open source.
 - [OpenMinis/OpenMinis](https://github.com/OpenMinis/OpenMinis) - OpenMinis — The AI Agent app across platforms. Fully free and open source.
 - [caezium/burrow](https://github.com/caezium/burrow) - 🐹 Cleanup, app management, maintenance, disk analysis, and live status in one free, open-source, native Mac app + extensive support for AI agents.
 - [Ebullioscopic/Atoll](https://github.com/Ebullioscopic/Atoll) - Dynamic Island for macOS
@@ -310,7 +312,7 @@
 - [momenbasel/PureMac](https://github.com/momenbasel/PureMac) - Free, open-source macOS cleaner. CleanMyMac alternative with zero telemetry. Native SwiftUI, scheduled auto-cleaning, Xcode/Homebrew/system cache cleanup. MIT licensed.
 - [duongductrong/Snapzy](https://github.com/duongductrong/Snapzy) - An open-source native macOS screenshot and screen recording app. A CleanShot X alternative.
 - [heyderekj/dinky](https://github.com/heyderekj/dinky) - Dinky makes files smaller.
-- [TableProApp/TablePro](https://github.com/TableProApp/TablePro) - Free and open source database client built natively for developers
+- [TableProApp/TablePro](https://github.com/TableProApp/TablePro) - Free, open-source native database client for macOS, Linux, iPhone and iPad.
 - [zenangst/KeyboardCowboy](https://github.com/zenangst/KeyboardCowboy) - :keyboard: The missing keyboard shortcut utility for macOS
 - [Kruszoneq/macUSB](https://github.com/Kruszoneq/macUSB) - The all-in-one bootable USB creator for Mac
 - [RockxyApp/Rockxy](https://github.com/RockxyApp/Rockxy) - Open-source native macOS HTTP debugging proxy — intercept HTTPS, inspect APIs, mock responses, debug WebSocket & GraphQL. Community-driven. For developers, by developers.
@@ -375,10 +377,9 @@
 - [wikimedia/wikipedia-ios](https://github.com/wikimedia/wikipedia-ios) - 📱The official Wikipedia iOS app.
 - [MarkEdit-app/MarkEdit](https://github.com/MarkEdit-app/MarkEdit) - Just like TextEdit on Mac but dedicated to Markdown.
 - [Dimillian/IceCubesApp](https://github.com/Dimillian/IceCubesApp) - A SwiftUI Mastodon client
-- [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现
 - [Automattic/simplenote-ios](https://github.com/Automattic/simplenote-ios) - Simplenote for iOS
 - [Automattic/pocket-casts-ios](https://github.com/Automattic/pocket-casts-ios) - Pocket Casts iOS app 🎧
-- [tw93/MiaoYan](https://github.com/tw93/MiaoYan) - ⛷ A quiet, local-first Markdown writing app for Mac, to help you write great sentences.
+- [tw93/MiaoYan](https://github.com/tw93/MiaoYan) - ⛷ A light, native Markdown notebook for Mac, iPhone and iPad.
 - [exelban/stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar
 - [jacklandrin/OnlySwitch](https://github.com/jacklandrin/OnlySwitch) - 👑 The all-in-one macOS menu bar companion: customizable controls, system monitor, AI Agent, Shortcuts, widgets, remote control, and more.
 - [Finb/Bark](https://github.com/Finb/Bark) - Bark is an iOS App which allows you to push custom notifications to your iPhone
@@ -396,7 +397,7 @@
 
 ## TypeScript 
 
-- [amiaoapp/PicLite](https://github.com/amiaoapp/PicLite) - PicLite 图轻 / PicLite — privacy-first image and GIF compression for Web, Windows, macOS and Linux.
+- [amiaoapp/PicLite](https://github.com/amiaoapp/PicLite) - PicLite 图轻 — 本地优先的跨平台图片与 GIF 压缩工具，支持悬浮窗、封面制作和 MCP / AI 接入。Privacy-first image & GIF compression for Web, Windows, macOS and Linux, with floating results, cover creation and MCP / AI integration.
 - [foru17/neko-master](https://github.com/foru17/neko-master) - A modern and elegant dashboard for network traffic visualization and analysis.
 - [pear-devs/pear-desktop](https://github.com/pear-devs/pear-desktop) - Pear 🍐 is extension for music player
 - [jeffernn/joyflix](https://github.com/jeffernn/joyflix) - 基于MoonTV(LunaTV)二次开发开箱即用的、跨平台的影视站（内置食用教程）
@@ -432,7 +433,6 @@
 - [AkiraBit/PicSharp](https://github.com/AkiraBit/PicSharp) - A modern, full-featured, high-performance, cross-platform image compression application  具有现代化UI、功能齐全、高性能、跨平台的图像压缩工具
 - [xishang0128/sparkle](https://github.com/xishang0128/sparkle) - :electron: Another Mihomo GUI. (🛠building...)
 - [ThinkInAIXYZ/deepchat](https://github.com/ThinkInAIXYZ/deepchat) - 🐬DeepChat - A smart assistant that connects powerful AI to your personal world
-- [mountain-loop/yaak](https://github.com/mountain-loop/yaak) - The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬
 - [Kochava-Studios/witsy](https://github.com/Kochava-Studios/witsy) - Witsy: desktop AI assistant / universal MCP client
 - [martpie/museeks](https://github.com/martpie/museeks) - 🎵 A simple, clean and cross-platform music player
 - [bluesky-social/social-app](https://github.com/bluesky-social/social-app) - The Bluesky Social application for Web, iOS, and Android
@@ -442,7 +442,7 @@
 - [Chilfish/Weibo-archiver](https://github.com/Chilfish/Weibo-archiver) - 将微博导出备份的油猴脚本，为号被完全夹没前未雨绸缪 😭
 - [iorate/ublacklist](https://github.com/iorate/ublacklist) - Blocks specific sites from appearing in Google search results
 - [GoogleChromeLabs/squoosh](https://github.com/GoogleChromeLabs/squoosh) - Make images smaller using best-in-class codecs, right in the browser.
-- [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use database GUI & SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
+- [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use database GUI & SQL client for MySQL, Postgres, SQLite, SQL Server, ClickHouse, and more. Linux, MacOS, and Windows.
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 
 ## Vue 
